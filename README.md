@@ -16,11 +16,11 @@ Download tại: [https://github.com/shiftkey/desktop/releases/](https://github.c
 
 Download tại: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-#### **a) Cài đặt tiện tích cho PDF**
+#### a) Cài đặt tiện tích cho PDF
 
 Download tại: [https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 
-#### **b) Cài đặt tiện tích cho Office**
+#### b) Cài đặt tiện tích cho Office
 
 Download tại: [https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office)
 
