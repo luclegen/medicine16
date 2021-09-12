@@ -67,3 +67,8 @@ Update: Cập nhật một/hàng loạt thứ gì đó.
 Modify: Cập nhật một thay đổi.
 Remove: Loại bỏ một thứ gì đó thứ đó có thể thêm trở lại.
 Delete: Xóa bỏ một thứ gì đó mà mình không đề cập tới nó nữa.
+
+#### 2. Phương thức giao tiếp
+
+1. Pull (Download): Kéo các commit về máy tính.
+2. Push (Upload): Đẩy các commit lên đám mây.
