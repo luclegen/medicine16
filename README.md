@@ -56,3 +56,14 @@ cat ~/.ssh/id_ed25519.pub
 #### Bước 3: Thêm SSH keys vào tài khoản của bạn:
 
 Vào trang: [https://github.com/settings/keys](https://github.com/settings/keys) . Sau đó nhấn vào nút `New SSH key` rồi dán vào `Key` rồi đặt tiêu đề. Cuối cùng nhấn vào `Add SSH key`.
+
+## IV. Sử dụng Git
+
+#### 1. Các dòng commit (cam kết) cơ bản
+
+Create: Tạo mới một thứ gì đó chưa có.
+Add: Thêm một thứ đã có sẵn.
+Update: Cập nhật một/hàng loạt thứ gì đó.
+Modify: Cập nhật một thay đổi.
+Remove: Loại bỏ một thứ gì đó thứ đó có thể thêm trở lại.
+Delete: Xóa bỏ một thứ gì đó mà mình không đề cập tới nó nữa.
