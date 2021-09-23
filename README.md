@@ -72,5 +72,5 @@ Vào trang: [https://github.com/settings/keys](https://github.com/settings/keys)
 
 #### 2. Phương thức giao tiếp
 
-1. Pull (Download): Kéo các commit về máy tính.
-2. Push (Upload): Đẩy các commit lên đám mây.
+1. `Pull` (Download): Kéo các commit về máy tính.
+2. `Push` (Upload): Đẩy các commit lên đám mây.
