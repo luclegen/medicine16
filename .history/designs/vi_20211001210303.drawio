@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="3CGOplF_25yKbEWaD3JT" name="ca">
+        <mxGraphModel dx="1247" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="96" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="96" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="417" y="96" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="Xem thông tin phòng khám" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="141" y="51" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="Chỉnh sửa thông tin phòng khám" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="138" y="138" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="91">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="51" y="231" as="sourcePoint"/>
+                        <mxPoint x="211" y="231" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="92">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="177" y="242" as="sourcePoint"/>
+                        <mxPoint x="337" y="242" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="91" target="89">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="177" y="242" as="sourcePoint"/>
+                        <mxPoint x="337" y="242" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="96" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="92" target="89">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="177" y="242" as="sourcePoint"/>
+                        <mxPoint x="337" y="242" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
