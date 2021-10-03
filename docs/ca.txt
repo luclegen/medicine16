@@ -1,7 +1,7 @@
 DB: User (Class/object: fields, methods)
 
 Bước 1. Actors: Người sử dụng hoặc một đối tượng ngoài.
-Admin (Chủ), User (nhân viên), Guest (Bệnh nhân, khách)
+Admin (Chủ), User (nhân viên: Bác sĩ, y tá, dược sĩ), Guest (Bệnh nhân, khách)
 
 Bước 2: Use Case: Chức năng.
 Functions:
