@@ -97,6 +97,9 @@
                         <mxPoint x="523" y="201" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="102" value="Bệnh nhân" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="606" y="206" width="30" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
