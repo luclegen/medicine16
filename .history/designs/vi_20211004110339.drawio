@@ -5,10 +5,10 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="218" value="Biểu đồ ca" style="shape=umlFrame;whiteSpace=wrap;html=1;width=75;height=22;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-                    <mxGeometry x="-195" y="-114" width="1082" height="1118" as="geometry"/>
+                    <mxGeometry x="-195" y="-114" width="1082" height="1154" as="geometry"/>
                 </mxCell>
                 <mxCell id="263" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-16" y="-70" width="672" height="1028" as="geometry"/>
+                    <mxGeometry x="-16" y="-70" width="672" height="1065" as="geometry"/>
                 </mxCell>
                 <mxCell id="90" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-118" y="490" width="30" height="60" as="geometry"/>
