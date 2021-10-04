@@ -55,6 +55,12 @@
                 <mxCell id="55" value="Dược sĩ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
                     <mxGeometry x="62" y="544" width="30" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="58" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="55" target="48">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="102" y="479" as="sourcePoint"/>
+                        <mxPoint x="212" y="345" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
