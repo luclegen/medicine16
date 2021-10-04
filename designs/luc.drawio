@@ -61,6 +61,9 @@
                         <mxPoint x="212" y="345" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="59" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; lý chi tiết thuốc&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="407" width="166" height="67" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
