@@ -1,23 +1,23 @@
 <mxfile host="65bd71144e">
     <diagram id="3CGOplF_25yKbEWaD3JT" name="ca">
-        <mxGraphModel dx="1704" dy="1588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1423" dy="1913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="218" value="Biểu đồ ca" style="shape=umlFrame;whiteSpace=wrap;html=1;width=75;height=22;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-                    <mxGeometry x="-153" y="-114" width="613" height="652" as="geometry"/>
+                    <mxGeometry x="14" y="-76" width="613" height="652" as="geometry"/>
                 </mxCell>
                 <mxCell id="263" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-16" y="-70" width="322" height="600" as="geometry"/>
+                    <mxGeometry x="158" y="-49" width="322" height="600" as="geometry"/>
                 </mxCell>
                 <mxCell id="90" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-118" y="149" width="30" height="60" as="geometry"/>
+                    <mxGeometry x="49" y="127" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="91" value="Xem thông tin phòng khám" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="66" y="-17" width="140" height="70" as="geometry"/>
+                    <mxGeometry x="181" y="-17" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="92" value="Quản lý thông tin phòng khám" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="63" y="134" width="140" height="70" as="geometry"/>
+                    <mxGeometry x="178.5" y="113" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="93" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="219" target="91" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -32,19 +32,19 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="219" value="Khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-118" y="-3" width="30" height="60" as="geometry"/>
+                    <mxGeometry x="51" y="-2" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="267" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="90" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="53" y="110" as="sourcePoint"/>
-                        <mxPoint x="-103" y="88" as="targetPoint"/>
+                        <mxPoint x="63" y="78" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="268" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" parent="267" connectable="0" vertex="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="270" value="Medicine16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="113" y="-62" width="40" height="20" as="geometry"/>
+                    <mxGeometry x="228.5" y="-49" width="40" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
