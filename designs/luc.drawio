@@ -40,6 +40,9 @@
                         <mxPoint x="212" y="182" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="46" value="Bác sĩ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="62" y="449" width="30" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
