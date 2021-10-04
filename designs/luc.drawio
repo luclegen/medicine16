@@ -85,7 +85,7 @@
                         <mxPoint x="394.9999999999999" y="94" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="91" value="Tạo/Đọc/Chỉnh sửa/Xóa/Chặn/Đổi mật khẩu" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="91" value="Tạo/Đọc/Chỉnh sửa/Xóa/Khóa/Đổi mật khẩu" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" vertex="1" parent="1">
                     <mxGeometry x="386" y="75.5" width="257" height="37" as="geometry"/>
                 </mxCell>
                 <mxCell id="97" value="&lt;span style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Chỉnh sửa hồ sơ&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
