@@ -121,7 +121,7 @@
                 <mxCell id="109" value="Tạo/Đọc/Chỉnh sửa/Xóa" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" vertex="1" parent="1">
                     <mxGeometry x="386" y="230.5" width="257" height="37" as="geometry"/>
                 </mxCell>
-                <mxCell id="110" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="30" target="109">
+                <mxCell id="110" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="30" target="109">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="358" y="104" as="sourcePoint"/>
                         <mxPoint x="396" y="104" as="targetPoint"/>
