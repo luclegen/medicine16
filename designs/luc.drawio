@@ -145,6 +145,9 @@
                         <mxPoint x="455.5" y="560" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="131" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Đăng ký tài khoản bệnh nhân&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="445.5" y="374" width="147" height="70" as="geometry"/>
+                </mxCell>
                 <mxCell id="132" value="Khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
                     <mxGeometry x="780" y="454" width="30" height="60" as="geometry"/>
                 </mxCell>
