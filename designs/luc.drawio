@@ -151,6 +151,12 @@
                 <mxCell id="132" value="Khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
                     <mxGeometry x="780" y="454" width="30" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="133" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="131" target="132">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="417" y="543" as="sourcePoint"/>
+                        <mxPoint x="577" y="543" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
