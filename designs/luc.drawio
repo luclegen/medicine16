@@ -334,14 +334,17 @@
                         <mxPoint x="1420" y="689" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="206" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Thanh toán bằng thẻ&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="995" y="769" width="147" height="70" as="geometry"/>
+                <mxCell id="206" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Thanh toán&lt;br&gt;bằng thẻ&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="991.5" y="699" width="147" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="210" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="203">
+                <mxCell id="210" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="203" target="206">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="1246.2053332720852" y="488.8330593900962" as="sourcePoint"/>
-                        <mxPoint x="1140" y="804" as="targetPoint"/>
+                        <mxPoint x="1153" y="855" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="211" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Thanh toán&lt;br&gt;bằng Momo&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="990" y="839" width="147" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
