@@ -292,6 +292,12 @@
                 <mxCell id="187" value="&lt;span style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Xem đơn thuốc&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="199.5" y="759" width="140" height="70" as="geometry"/>
                 </mxCell>
+                <mxCell id="188" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="55" target="187">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="102" y="709" as="sourcePoint"/>
+                        <mxPoint x="209.0000000000025" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
