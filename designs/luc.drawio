@@ -266,9 +266,9 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="179" value="Tạo/Đọc/Chỉnh sửa/Xóa" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="599" width="152" height="37" as="geometry"/>
+                    <mxGeometry x="306" y="611" width="152" height="37" as="geometry"/>
                 </mxCell>
-                <mxCell id="181" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="60" target="179">
+                <mxCell id="181" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="60" target="179">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="496" y="879" as="sourcePoint"/>
                         <mxPoint x="496.5" y="905.5" as="targetPoint"/>
@@ -281,6 +281,12 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="361" y="707" as="sourcePoint"/>
                         <mxPoint x="426" y="844" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="186" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=152;exitDy=26;exitPerimeter=0;" edge="1" parent="1" source="179" target="183">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="279" y="675" as="sourcePoint"/>
+                        <mxPoint x="329" y="624.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
