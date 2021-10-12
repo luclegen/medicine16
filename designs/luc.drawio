@@ -268,6 +268,9 @@
                         <mxPoint x="422.5" y="917.5000000000002" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="171" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Xác nhận&lt;br&gt;số điện thoại&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="903" y="120" width="145" height="70" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
