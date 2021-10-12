@@ -346,6 +346,12 @@
                 <mxCell id="211" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Thanh toán&lt;br&gt;bằng Momo&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="990" y="839" width="147" height="70" as="geometry"/>
                 </mxCell>
+                <mxCell id="212" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.997;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="203" target="211">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="1228" y="814" as="sourcePoint"/>
+                        <mxPoint x="1148.5" y="769" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
