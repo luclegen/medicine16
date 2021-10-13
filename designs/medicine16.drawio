@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="MBymZvRxtM8xUYwRDWeC" name="ca">
-        <mxGraphModel dx="2260" dy="1492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="805" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -464,7 +464,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="168" value="" style="group" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="1675" y="868" width="30" height="90" as="geometry"/>
+                    <mxGeometry x="1667" y="868" width="30" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="171" value="" style="group" parent="168" vertex="1" connectable="0">
                     <mxGeometry width="30" height="90" as="geometry"/>
@@ -472,13 +472,13 @@
                 <mxCell id="156" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="171" vertex="1">
                     <mxGeometry y="6" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="164" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="171" source="107" edge="1">
+                <mxCell id="164" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="171" source="107" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="-1215" y="202.00000000000023" as="sourcePoint"/>
                         <mxPoint x="15" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="165" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="171" source="110" edge="1">
+                <mxCell id="165" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="171" source="110" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="-22" y="-319.75" as="sourcePoint"/>
                         <mxPoint x="1" y="4" as="targetPoint"/>
@@ -496,7 +496,7 @@
                         <mxPoint x="19" y="89" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="172" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="156" target="85">
+                <mxCell id="172" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="156" target="85" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="1746" y="1083" as="sourcePoint"/>
                         <mxPoint x="1745" y="836" as="targetPoint"/>
