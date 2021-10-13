@@ -272,7 +272,7 @@
                     <mxGeometry x="1613" y="680.25" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="111" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&amp;nbsp;lý đơn thuốc&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="1360" y="636.25" width="140" height="71" as="geometry"/>
+                    <mxGeometry x="1360" y="714.25" width="140" height="71" as="geometry"/>
                 </mxCell>
                 <mxCell id="112" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="110" target="111" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -281,7 +281,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="113" value="Tạo/Đọc/Chỉnh sửa/Xóa" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-                    <mxGeometry x="1248" y="593.25" width="152" height="38" as="geometry"/>
+                    <mxGeometry x="1248" y="671.25" width="152" height="38" as="geometry"/>
                 </mxCell>
                 <mxCell id="114" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=144.5;entryDy=7.5;entryPerimeter=0;" parent="1" source="111" target="113" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -290,7 +290,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="115" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&amp;nbsp;lý&lt;br&gt;chi tiết thuốc&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="1151" y="636.25" width="140" height="71" as="geometry"/>
+                    <mxGeometry x="1151" y="714.25" width="140" height="71" as="geometry"/>
                 </mxCell>
                 <mxCell id="116" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="111" target="115" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -305,7 +305,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="118" value="&lt;font face=&quot;times new roman, serif&quot;&gt;&lt;span style=&quot;font-size: 17.3333px&quot;&gt;Xem hồ sơ&lt;br&gt;bệnh nhân&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="1360" y="714.25" width="140" height="71" as="geometry"/>
+                    <mxGeometry x="1360" y="604.25" width="140" height="71" as="geometry"/>
                 </mxCell>
                 <mxCell id="119" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="110" target="118" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
