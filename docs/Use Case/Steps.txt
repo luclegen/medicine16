@@ -1,3 +1,5 @@
+VẼ USE CASE
+
 DB: User (Class/object: fields, methods)
 
 Bước 1. Actors: Người sử dụng hoặc một đối tượng ngoài.
