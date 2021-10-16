@@ -1,4 +1,4 @@
-VẼ USE CASE
+VẼ BIỂU ĐỒ TRƯỜNG HỢP SỬ DỤNG
 
 DB: User (Class/object: fields, methods)
 
