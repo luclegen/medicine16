@@ -1,4 +1,4 @@
-VẼ CLASS
+VẼ BIỂU ĐỒ LỚP
 
 Bước 1: Tìm các Classes dự kiến
 Class
