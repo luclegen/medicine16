@@ -12,7 +12,7 @@ Functions:
 3. ...
 
 Bước 3: Xác định các quan hệ.
-1. Association: quan hệ giữa Actor - Use Case hoặc Use Case - Use Case
+1. Association (Communication Path): quan hệ giữa Actor - Use Case hoặc Use Case - Use Case
 2. Generalization: quan hệ thừa kế giữa Actor - Actor hoặc Use Case - Use Case
 3. Include: chia nhỏ giữa các Use Case: Lớn (chính) - Nhỏ (phụ)
   a. Tiên quyết;
