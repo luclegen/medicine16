@@ -1,0 +1,39 @@
+VẼ BIỂU ĐỒ LỚP
+
+Bước 1: Tìm các Classes dự kiến
+Class
+- Tên
+- thuộc tính
+  Người dùng (NguoiDung)
+  Số điện thoại -> soDienThoai
+  Mật khẩu -> matKhau
+- phương thức
+  Xem thông tin phòng khám -> xemThongTinPhongKham
+
+Bước 2: Tìm các thuộc tính và phương thức cho lớp
+- Thuộc tính: được xác định thông qua các form (biểu mẫu), các form sẽ bao gồm các thông tin từ form
+  + Người dùng (Mã ND, Tên người dùng - username, Mật khẩu - password)
+  + Bệnh nhân thừa kế lại thuộc tính của người dùng.
+- Phương thức: Bao gồm những hoạt động (Use Case) cần thiết.
+  + Khách (Xem thông tin phòng khám, Đăng ký tài khoản bệnh nhân,...)
+  + Người dùng (Đăng xuất, Đổi mật khẩu,...)
+
+Bước 3: Xây dựng các quan hệ giữa các lớp và phát hiện các lớp phát sinh
+- Relationship (các quan hệ)
+  + Association: là quan hệ giữa hai lớp với nhau.
+  + Aggregation: là một loại của quan hệ Association nhưng mạnh hơn. (Có thể sinh ra cùng lúc)
+  + Composition: là một loại mạnh hơn của Aggregation thể hiện quan hệ class này là một phần của class kia. (Có trước có sau)
+  + Generalization: là quan hệ thừa kế giữa Class - Class.
+- Các lớp phát sinh: Được phát sinh từ những danh từ có trong Use Case (Động từ + Danh từ)
+  Hồ sơ (mã HS, Họ, Tên, Số ĐT, Ngày sinh, Giới tính) được phát sinh từ Use Case Xem hồ sơ
+
+Bước 4: Đặc tả Class
+- Các thuộc tính: Tên, kiểu dữ liệu, kích thước
+- Các phương thức:
+  • Tên
+  • Mô tả
+  • Tham số đầu vào: Tên, kiểu dữ liệu, kích thươcs
+  • Kết quả đầu ra: Tên, kiểu dữ liệu, kích thước
+  • Luồng xử lý
+  • Điều kiện bắt đầu
+  • Điều kiện kết thúc
