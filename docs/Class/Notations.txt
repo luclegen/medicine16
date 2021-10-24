@@ -1,9 +1,10 @@
 Java
-* Đơn kế thừa (Single inheritance)
+* Đơn kế thừa (Single inheritance): class, abstract class
+* Đa kế thừa (Multiple inheritance): interface
 
 C++
-* Đơn kế thừa (Single inheritance)
-* Đa kế thừa (Multiple inheritance)
+* Đơn kế thừa (Single inheritance): class, struct
+* Đa kế thừa (Multiple inheritance): class
 
 CÁC KÝ HIỆU
 1. Quyền truy cập
