@@ -14,6 +14,17 @@ CÁC KÝ HIỆU
 
 2. Các thành phần:
 * Class (lớp): MotHaiBa -> Kiểu dữ kiệu của đối tượng.
+* Abstract class (lớp trừu tượng):
+  1) Có phương thức abstract (không có thân hàm) và phương thức non-abstract (có thân hàm).
+  2) Không hỗ trợ đa kế thừa.
+  3) Có các biến final, non-final, static and non-static.
+  4) Có thể cung cấp nội dung cài đặt cho phương thức của interface.
+  5) Từ khóa abstract được sử dụng để khai báo abstract class.
+* Interface (giao tiếp):
+  1) Chỉ có phương thức abstract. Từ java 8, nó có thêm các phương thức default và static
+  2) Có hỗ trợ đa kế thừa.
+  3) Chỉ có các biến static và final.
+  4) Không thể cung cấp nội dung cài đặt cho phương thức của abstract class.
 * Object (đối tượng)): MotHaiBa -> Dữ kiệu được khái báo từ lass.
 * field (thuộc tính): motHaiBa -> Các đặc tính liên quan của class
 * method (phương thức): motHaiBa(...) -> Các chức năng của class
