@@ -1,0 +1,26 @@
+Java
+* Đơn kế thừa (Single inheritance)
+
+C++
+* Đơn kế thừa (Single inheritance)
+* Đa kế thừa (Multiple inheritance)
+
+CÁC KÝ HIỆU
+1. Quyền truy cập
+* private   (-): Chỉ truy cập được trong một lớp.
+* public    (+): Có thể truy cập được trong mọi lớp.
+* protected (#): Có thể truy cập được trong lớp con hoặc lớp ở trong cùng một gói.
+
+2. Tên:
+* Class (lớp): MotHaiBa
+* field (thuộc tính): motHaiBa
+* method (phương thức): motHaiBa(...)
+  @ argument (đối số): ở trong (...) của phương thức.
+  @ parameter (tham số): dữ liệu đầu vào khi khai báo/khởi tạo
+
+3. Các kiểu cơ bản (Java)
+* int, byte,...(BigInteger): số nguyên
+* float, double: số thập phân (số thực)
+* char (Character): một kí tự
+* String: Chuỗi (nhiều) kí tự
+* class: Khach, NguoiDung,...
