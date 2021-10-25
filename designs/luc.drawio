@@ -473,7 +473,7 @@
                 <mxCell id="y23olSElOYEPVSy715_D-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
                     <mxGeometry y="76" width="435" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="y23olSElOYEPVSy715_D-4" value="+ dangXuat(): boolean&#10;+ doiMatKhau(String matKhau, String matKhauMoi): boolean&#10;+ xacThucMatKhauCu(): bool&#10;+ xemHoSo(): HoSo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
+                <mxCell id="y23olSElOYEPVSy715_D-4" value="+ dangXuat(): boolean&#10;+ doiMatKhau(matKhau: String,matKhauMoi: String): boolean&#10;- xacThucMatKhauCu(): bool&#10;+ xemHoSo(): HoSo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
                     <mxGeometry y="84" width="435" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="_a90bXLWo0XOqdl1Q74q-1" value="HoSo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="R1olobaTUigJtBrA1l1m-1">
