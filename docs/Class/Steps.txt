@@ -21,7 +21,7 @@ Bước 2: Tìm các thuộc tính và phương thức cho lớp
 Bước 3: Xây dựng các quan hệ giữa các lớp và phát hiện các lớp phát sinh
 - Relationship (các quan hệ)
   + Association: là quan hệ giữa hai lớp với nhau.
-  + Aggregation: là một loại của quan hệ Association nhưng mạnh hơn. (Có thể sinh ra cùng lúc)
+  + Aggregation: là một loại của quan hệ Association nhưng mạnh hơn. (Có thể sinh ra/chết đi cùng lúc)
   + Composition: là một loại mạnh hơn của Aggregation thể hiện quan hệ class này là một phần của class kia. (Có trước có sau)
   + Generalization: là quan hệ thừa kế giữa Class - Class.
 - Các lớp phát sinh: Được phát sinh từ những danh từ có trong Use Case (Động từ + Danh từ)
