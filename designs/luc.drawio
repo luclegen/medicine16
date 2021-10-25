@@ -449,7 +449,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QXEAovBEL3Wnjljx5MKh" name="Class">
-        <mxGraphModel dx="560" dy="236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="947" dy="404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="R1olobaTUigJtBrA1l1m-0"/>
                 <mxCell id="R1olobaTUigJtBrA1l1m-1" parent="R1olobaTUigJtBrA1l1m-0"/>
@@ -476,16 +476,28 @@
                     <mxGeometry y="34" width="435" height="51" as="geometry"/>
                 </mxCell>
                 <mxCell id="y23olSElOYEPVSy715_D-1" value="NguoiDung" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="R1olobaTUigJtBrA1l1m-1" vertex="1">
-                    <mxGeometry x="9" y="188" width="435" height="167" as="geometry"/>
+                    <mxGeometry x="8" y="199" width="435" height="145" as="geometry"/>
                 </mxCell>
-                <mxCell id="y23olSElOYEPVSy715_D-2" value="- maND: String&#10;- ten: String&#10;- ho: String&#10;- soDienThoai: String&#10;- diaChi: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
-                    <mxGeometry y="26" width="435" height="79" as="geometry"/>
+                <mxCell id="y23olSElOYEPVSy715_D-2" value="+ maND: String&#10;- tenNguoiDung: String&#10;- matKhau: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
+                    <mxGeometry y="26" width="435" height="57" as="geometry"/>
                 </mxCell>
                 <mxCell id="y23olSElOYEPVSy715_D-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
-                    <mxGeometry y="105" width="435" height="8" as="geometry"/>
+                    <mxGeometry y="83" width="435" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="y23olSElOYEPVSy715_D-4" value="+ dangXuat(): boolean&#10;+ doiMatKhau(String matKhau, String matKhauMoi): boolean&#10;+ xemHoSo(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y23olSElOYEPVSy715_D-1" vertex="1">
-                    <mxGeometry y="113" width="435" height="54" as="geometry"/>
+                    <mxGeometry y="91" width="435" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-1" value="HoSo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="R1olobaTUigJtBrA1l1m-1">
+                    <mxGeometry x="512" y="182" width="159" height="181" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-2" value="+ maHS: String&#10;- ten: String&#10;- ho: String&#10;- soDienThoai: String&#10;- diaChi: String&#10;- maND: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-1">
+                    <mxGeometry y="26" width="159" height="93" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-1">
+                    <mxGeometry y="119" width="159" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-4" value="+ chinhSuaHoSo(): boolean&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-1">
+                    <mxGeometry y="127" width="159" height="54" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
