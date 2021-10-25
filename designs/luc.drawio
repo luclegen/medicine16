@@ -449,20 +449,20 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QXEAovBEL3Wnjljx5MKh" name="Class">
-        <mxGraphModel dx="947" dy="404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="947" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="R1olobaTUigJtBrA1l1m-0"/>
                 <mxCell id="R1olobaTUigJtBrA1l1m-1" parent="R1olobaTUigJtBrA1l1m-0"/>
                 <mxCell id="R1olobaTUigJtBrA1l1m-11" value="{abstract}&#10;Khach" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="R1olobaTUigJtBrA1l1m-1" vertex="1">
-                    <mxGeometry x="9" y="73" width="435" height="110" as="geometry">
+                    <mxGeometry x="6" y="-10" width="439" height="152" as="geometry">
                         <mxRectangle x="9" y="85" width="64" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="R1olobaTUigJtBrA1l1m-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="R1olobaTUigJtBrA1l1m-11" vertex="1">
-                    <mxGeometry y="37" width="435" height="8" as="geometry"/>
+                    <mxGeometry y="37" width="439" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="R1olobaTUigJtBrA1l1m-14" value="+ xemThongTinPhongKham(): void&#10;+ dangKyTaiKhoanBenhNhan(String soDienThoai,String matKhau): NguoiDung&#10;+ datLaiMatKhau(String matKhau,String matKhauMoi): void&#10;+ dangNhap(String soDienThoai, String matKhau): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R1olobaTUigJtBrA1l1m-11" vertex="1">
-                    <mxGeometry y="45" width="435" height="65" as="geometry"/>
+                <mxCell id="R1olobaTUigJtBrA1l1m-14" value="+ xemThongTinPhongKham(): void&#10;+ timKiem(String tuKhoa)&#10;+ dangKyTaiKhoanBenhNhan(String tenNguoiDung,String matKhau): NguoiDung&#10;+ datLaiMatKhau(String matKhau,String matKhauMoi): void&#10;+ xacMinhSoDienThoai(String maXacNhan): boolean&#10;+ dangNhap(String tenNguoiDung, String matKhau): String&#10;+ xacThucMatKhau(NguoiDung nguoiDung): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R1olobaTUigJtBrA1l1m-11" vertex="1">
+                    <mxGeometry y="45" width="439" height="107" as="geometry"/>
                 </mxCell>
                 <mxCell id="y23olSElOYEPVSy715_D-1" value="NguoiDung" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="R1olobaTUigJtBrA1l1m-1" vertex="1">
                     <mxGeometry x="8" y="199" width="435" height="145" as="geometry"/>
@@ -513,6 +513,12 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="359" y="213" as="sourcePoint"/>
                         <mxPoint x="519" y="213" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-34" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R1olobaTUigJtBrA1l1m-1" source="y23olSElOYEPVSy715_D-1" target="R1olobaTUigJtBrA1l1m-14">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="306" y="210" as="sourcePoint"/>
+                        <mxPoint x="224" y="152" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
