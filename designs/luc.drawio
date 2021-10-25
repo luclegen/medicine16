@@ -449,7 +449,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QXEAovBEL3Wnjljx5MKh" name="Class">
-        <mxGraphModel dx="947" dy="404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="659" dy="404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="R1olobaTUigJtBrA1l1m-0"/>
                 <mxCell id="R1olobaTUigJtBrA1l1m-1" parent="R1olobaTUigJtBrA1l1m-0"/>
@@ -498,6 +498,12 @@
                 </mxCell>
                 <mxCell id="_a90bXLWo0XOqdl1Q74q-4" value="+ chinhSuaHoSo(): boolean&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-1">
                     <mxGeometry y="127" width="159" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-20" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=1.002;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="R1olobaTUigJtBrA1l1m-1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="443.8700000000001" y="270.486" as="sourcePoint"/>
+                        <mxPoint x="515" y="270" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
