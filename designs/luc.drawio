@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="-ITIplBQpWQnbig9K1bM" name="Use Case">
-        <mxGraphModel dx="582" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="560" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -449,7 +449,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QXEAovBEL3Wnjljx5MKh" name="Class">
-        <mxGraphModel dx="582" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="560" dy="236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="R1olobaTUigJtBrA1l1m-0"/>
                 <mxCell id="R1olobaTUigJtBrA1l1m-1" parent="R1olobaTUigJtBrA1l1m-0"/>
