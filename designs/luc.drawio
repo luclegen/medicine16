@@ -507,7 +507,7 @@
                     <mxGeometry y="91" width="435" height="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="_a90bXLWo0XOqdl1Q74q-26" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;GioiTinh&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Nam&lt;br&gt;Nu&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="R1olobaTUigJtBrA1l1m-1">
-                    <mxGeometry x="751" y="232" width="200" height="78" as="geometry"/>
+                    <mxGeometry x="751" y="232" width="114" height="78" as="geometry"/>
                 </mxCell>
                 <mxCell id="_a90bXLWo0XOqdl1Q74q-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R1olobaTUigJtBrA1l1m-1" source="_a90bXLWo0XOqdl1Q74q-2" target="_a90bXLWo0XOqdl1Q74q-26">
                     <mxGeometry width="160" relative="1" as="geometry">
