@@ -539,6 +539,12 @@
                 <mxCell id="_a90bXLWo0XOqdl1Q74q-47" value="+ getLichKham(): LichKham" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-44">
                     <mxGeometry y="82" width="159" height="24" as="geometry"/>
                 </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-49" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R1olobaTUigJtBrA1l1m-1" target="_a90bXLWo0XOqdl1Q74q-45">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="443" y="499" as="sourcePoint"/>
+                        <mxPoint x="517" y="553" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
