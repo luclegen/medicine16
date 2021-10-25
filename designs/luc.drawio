@@ -527,6 +527,18 @@
                         <mxPoint x="226" y="346" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-44" value="LichKham" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="R1olobaTUigJtBrA1l1m-1">
+                    <mxGeometry x="531" y="449.5" width="159" height="106" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-45" value="+ soThuTu: int&#10;+ ngayKham: Date&#10;+ buoi: Buoi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-44">
+                    <mxGeometry y="24" width="159" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-44">
+                    <mxGeometry y="74" width="159" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="_a90bXLWo0XOqdl1Q74q-47" value="+ getLichKham(): LichKham" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="_a90bXLWo0XOqdl1Q74q-44">
+                    <mxGeometry y="82" width="159" height="24" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
