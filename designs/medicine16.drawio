@@ -635,6 +635,18 @@
                         <mxPoint x="219.5" y="607" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-58" value="YTa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
+                    <mxGeometry x="938" y="-9" width="451" height="99" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-59" value="+ maYT: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Bfy0t6FlsVSRHwe1O9fa-58">
+                    <mxGeometry y="26" width="451" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-60" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Bfy0t6FlsVSRHwe1O9fa-58">
+                    <mxGeometry y="52" width="451" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-61" value="+ xemLichKham(soThuTu: int): LichKham&#10;+ xemDanhSachLichKham(ngay: Date, buoi: Buoi): ArrayList&lt;LichKham&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Bfy0t6FlsVSRHwe1O9fa-58">
+                    <mxGeometry y="60" width="451" height="39" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
