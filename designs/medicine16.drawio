@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="773" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -731,7 +731,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="h69k3PW1enW-DJriVl1L-0" value="NhanVien" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
-                    <mxGeometry x="1726" y="299" width="307.5" height="108" as="geometry"/>
+                    <mxGeometry x="1742" y="300" width="307.5" height="108" as="geometry"/>
                 </mxCell>
                 <mxCell id="h69k3PW1enW-DJriVl1L-1" value="+ maNV: String {id}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="h69k3PW1enW-DJriVl1L-0">
                     <mxGeometry y="26" width="307.5" height="24" as="geometry"/>
@@ -746,6 +746,12 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="1878" y="288" as="sourcePoint"/>
                         <mxPoint x="1878" y="231" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="h69k3PW1enW-DJriVl1L-6" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=1.001;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" source="1uJQyI_KkmqxAJMUqdPo-4" target="h69k3PW1enW-DJriVl1L-0">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="1837.924" y="50.03600000000006" as="sourcePoint"/>
+                        <mxPoint x="1853" y="301" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
