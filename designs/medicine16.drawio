@@ -653,7 +653,7 @@
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-60" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-58" vertex="1">
                     <mxGeometry y="52" width="451" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-61" value="+ xemLichKham(soThuTu: int): LichKham&#10;+ xemDanhSachLichKham(ngay: Date, buoi: Buoi): ArrayList&lt;LichKham&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-58" vertex="1">
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-61" value="+ xemLichKham(soThuTu: int): LichKham&#10;+ xemDanhSachLichKham(Date, Buoi): ArrayList&lt;LichKham&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-58" vertex="1">
                     <mxGeometry y="60" width="451" height="39" as="geometry"/>
                 </mxCell>
                 <mxCell id="RFzDIuNeniKJ1NbOr7Uf-0" value="BacSi" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
