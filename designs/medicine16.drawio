@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="805" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -741,6 +741,12 @@
                 </mxCell>
                 <mxCell id="h69k3PW1enW-DJriVl1L-3" value="+ diemDanh(): boolean&#10;- diemDanhVaoCa(): boolean&#10;- diemDanhTanCa(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="h69k3PW1enW-DJriVl1L-0">
                     <mxGeometry y="58" width="307.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="h69k3PW1enW-DJriVl1L-4" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=1.003;exitY=0.886;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-59" target="h69k3PW1enW-DJriVl1L-0">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="1878" y="288" as="sourcePoint"/>
+                        <mxPoint x="1878" y="231" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
