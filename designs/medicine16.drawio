@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="805" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -704,16 +704,10 @@
                 <mxCell id="1uJQyI_KkmqxAJMUqdPo-6" value="+ BacSi()&#10;+ xemHoSoBenhNhan(): BenhNhan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="1uJQyI_KkmqxAJMUqdPo-3">
                     <mxGeometry y="58" width="307.5" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="1uJQyI_KkmqxAJMUqdPo-9" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=1.0;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;jumpSize=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1">
+                <mxCell id="1uJQyI_KkmqxAJMUqdPo-9" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;jumpSize=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" target="RFzDIuNeniKJ1NbOr7Uf-14">
                     <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="1519.5020000000002" y="199.01400000000004" as="sourcePoint"/>
+                        <mxPoint x="1254" y="312" as="sourcePoint"/>
                         <mxPoint x="1440" y="200" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="1uJQyI_KkmqxAJMUqdPo-11" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" target="RFzDIuNeniKJ1NbOr7Uf-14">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="1255" y="313" as="sourcePoint"/>
-                        <mxPoint x="1680" y="275" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
