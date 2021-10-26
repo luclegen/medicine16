@@ -8,7 +8,7 @@ Class
   Số điện thoại -> soDienThoai
   Mật khẩu -> matKhau
 - phương thức
-  Xem thông tin phòng khám -> xemThongTinPhongKham
+  Xem thông tin phòng khám -> xemThongTinPhongKham()
 
 Bước 2: Tìm các thuộc tính và phương thức cho lớp
 - Thuộc tính: được xác định thông qua các form (biểu mẫu), các form sẽ bao gồm các thông tin từ form
