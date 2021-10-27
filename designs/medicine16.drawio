@@ -724,7 +724,7 @@
                 <mxCell id="1uJQyI_KkmqxAJMUqdPo-37" value="" style="triangle;aspect=fixed;fillColor=#000000;direction=west;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
                     <mxGeometry x="1455" y="183" width="5" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="1uJQyI_KkmqxAJMUqdPo-38" value="Kê đơn" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;entryX=0.006;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;" parent="KZGz6qvaDioqa39ONcW2-1" source="RFzDIuNeniKJ1NbOr7Uf-5" target="1uJQyI_KkmqxAJMUqdPo-4" edge="1">
+                <mxCell id="1uJQyI_KkmqxAJMUqdPo-38" value="Quản lý" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;entryX=0.006;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;" parent="KZGz6qvaDioqa39ONcW2-1" source="RFzDIuNeniKJ1NbOr7Uf-5" target="1uJQyI_KkmqxAJMUqdPo-4" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1359" y="228" as="sourcePoint"/>
                         <mxPoint x="1499" y="228" as="targetPoint"/>
