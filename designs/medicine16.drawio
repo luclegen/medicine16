@@ -409,7 +409,7 @@
                         <mxPoint x="1943.25" y="1292.75" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="142" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&amp;nbsp;lý&lt;br&gt;trang thiết bị&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="142" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13pt ; line-height: 19.9333px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&amp;nbsp;lý&lt;br&gt;vật dụng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="1182" y="1311.5" width="140" height="71" as="geometry"/>
                 </mxCell>
                 <mxCell id="144" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="85" edge="1">
