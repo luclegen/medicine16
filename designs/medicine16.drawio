@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="560" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -760,7 +760,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="EwsFx7m98_k5Zyq_j5Fm-2" value="DuocSi" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
-                    <mxGeometry x="1519.5" y="460" width="307.5" height="110" as="geometry"/>
+                    <mxGeometry x="1519.5" y="460" width="307.5" height="123" as="geometry"/>
                 </mxCell>
                 <mxCell id="EwsFx7m98_k5Zyq_j5Fm-3" value="+ maDS: String {id}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EwsFx7m98_k5Zyq_j5Fm-2">
                     <mxGeometry y="26" width="307.5" height="24" as="geometry"/>
@@ -768,8 +768,8 @@
                 <mxCell id="EwsFx7m98_k5Zyq_j5Fm-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EwsFx7m98_k5Zyq_j5Fm-2">
                     <mxGeometry y="50" width="307.5" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="EwsFx7m98_k5Zyq_j5Fm-5" value="+ DuocSi()&#10;+ xemDonThuoc(maBN: String): DonThuoc&#10;- in(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="EwsFx7m98_k5Zyq_j5Fm-2">
-                    <mxGeometry y="58" width="307.5" height="52" as="geometry"/>
+                <mxCell id="EwsFx7m98_k5Zyq_j5Fm-5" value="+ DuocSi()&#10;+ xemDonThuoc(maBN: String): DonThuoc&#10;- in(): void&#10;+ dieuChinhSoLuong(xuat: int, nhap: int, ton: int): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="EwsFx7m98_k5Zyq_j5Fm-2">
+                    <mxGeometry y="58" width="307.5" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="EwsFx7m98_k5Zyq_j5Fm-6" value="VatDung" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
                     <mxGeometry x="1070" y="729" width="369" height="80" as="geometry"/>
