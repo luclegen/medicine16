@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="2209" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="773" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -815,10 +815,10 @@
                 <mxCell id="Te8Xc130O7UyP85CIERI-48" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
                     <mxGeometry x="210" y="666" width="28" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="Te8Xc130O7UyP85CIERI-53" value="Quản lý" style="endArrow=open;endFill=1;endSize=12;html=1;labelBackgroundColor=#ffffff;entryX=0.384;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" target="Bfy0t6FlsVSRHwe1O9fa-15">
+                <mxCell id="Te8Xc130O7UyP85CIERI-53" value="Quản lý" style="endArrow=open;endFill=1;endSize=12;html=1;labelBackgroundColor=#ffffff;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="241" y="683" as="sourcePoint"/>
-                        <mxPoint x="257" y="625" as="targetPoint"/>
+                        <mxPoint x="241" y="615" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Te8Xc130O7UyP85CIERI-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1.001;exitY=0.836;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-39" target="h69k3PW1enW-DJriVl1L-3">
