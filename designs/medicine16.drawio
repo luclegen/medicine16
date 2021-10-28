@@ -611,9 +611,9 @@
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-23" value="+ LichKham()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Bfy0t6FlsVSRHwe1O9fa-20" vertex="1">
                     <mxGeometry y="82" width="189" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-24" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZGz6qvaDioqa39ONcW2-1" target="Bfy0t6FlsVSRHwe1O9fa-21" edge="1">
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-24" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZGz6qvaDioqa39ONcW2-1" target="Bfy0t6FlsVSRHwe1O9fa-23" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="452" y="499" as="sourcePoint"/>
+                        <mxPoint x="452" y="494" as="sourcePoint"/>
                         <mxPoint x="517" y="553" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
