@@ -521,7 +521,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="773" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -632,7 +632,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-36" value="QuanTriVien" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
-                    <mxGeometry x="112" y="684" width="339" height="181" as="geometry"/>
+                    <mxGeometry x="112" y="684" width="339" height="194" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-37" value="+ maQTV: String {id}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
                     <mxGeometry y="26" width="339" height="26" as="geometry"/>
@@ -640,8 +640,8 @@
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
                     <mxGeometry y="52" width="339" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-39" value="+ QuanTriVien(String, String, String)&#10;+ xemHoSo(maND: String): HoSo&#10;+ docTaiKhoan(maND: String): NguoiDung&#10;+ capNhatTaiKhoan(nguoiDung: NguoiDung): NguoiDung&#10;+ xoaTaiKhoan(maND: String): boolean&#10;+ khoaTaiKhoan(maND: String, khoa: boolean): boolean&#10;+ doiMatKhau(matKhau: String): boolean&#10;+ thongKe()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
-                    <mxGeometry y="60" width="339" height="121" as="geometry"/>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-39" value="+ QuanTriVien(String, String, String)&#10;+ xemHoSo(maND: String): HoSo&#10;+ taoTaiKhoan(nhanVien: NhanVien): NhanVien&#10;+ quanLyTaiKhoan(maND: String): void&#10;+ capNhatTaiKhoan(nguoiDung: NguoiDung): NguoiDung&#10;+ xoaTaiKhoan(maND: String): boolean&#10;+ khoaTaiKhoan(maND: String, khoa: boolean): boolean&#10;+ doiMatKhau(matKhau: String): boolean&#10;+ thongKe()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
+                    <mxGeometry y="60" width="339" height="134" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-48" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-36" target="Bfy0t6FlsVSRHwe1O9fa-15" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -875,13 +875,13 @@
                         <mxPoint x="848.6569999999999" y="620.5" as="sourcePoint"/>
                         <mxPoint x="1801" y="478" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="1827" y="819"/>
+                            <mxPoint x="1827" y="827"/>
                             <mxPoint x="1827" y="380"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Te8Xc130O7UyP85CIERI-29" value="Quản lý" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
-                    <mxGeometry x="525" y="810" width="51" height="18" as="geometry"/>
+                    <mxGeometry x="487" y="819" width="51" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="Te8Xc130O7UyP85CIERI-55" value="Quản lý" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.002;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" source="1uJQyI_KkmqxAJMUqdPo-6" target="RFzDIuNeniKJ1NbOr7Uf-5">
                     <mxGeometry width="160" relative="1" as="geometry">
