@@ -40,7 +40,7 @@ CÁC KÝ HIỆU
 * class: Khach, NguoiDung,...
 
 4. Multiplicity - Các tính đa dạng
-  Sử dụng để thể hiện quan hệ về số lượng giữa các đối tượng được tạo từ các class trong class diagram
+  Sử dụng để thể hiện quan hệ về số lượng giữa các đối tượng được tạo từ các class trong biểu đồ lớp.
   0...1: 0 hoặc 1
   n : Bắt buộc có n
   0...* : 0 hoặc nhiều
