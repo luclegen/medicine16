@@ -521,12 +521,12 @@
         </mxGraphModel>
     </diagram>
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-0" value="Khach" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
-                    <mxGeometry x="112" y="1" width="339" height="139" as="geometry">
+                    <mxGeometry x="112" y="-13" width="339" height="139" as="geometry">
                         <mxRectangle x="0.5" y="4" width="64" height="26" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
@@ -537,16 +537,16 @@
                     <mxGeometry y="32" width="339" height="107" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-3" value="NguoiDung" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
-                    <mxGeometry x="112" y="199" width="339" height="151" as="geometry"/>
+                    <mxGeometry x="112" y="194" width="339" height="157" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-4" value="- tenNguoiDung: String&#10;- matKhau: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-3" vertex="1">
-                    <mxGeometry y="26" width="339" height="40" as="geometry"/>
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-4" value="- tenNguoiDung: String&#10;- matKhau: String&#10;- dangDangNhap: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-3" vertex="1">
+                    <mxGeometry y="26" width="339" height="46" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-3" vertex="1">
-                    <mxGeometry y="66" width="339" height="8" as="geometry"/>
+                    <mxGeometry y="72" width="339" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-6" value="+ NguoiDung(String, String)&#10;+ dangXuat(): boolean&#10;+ doiMatKhau(matKhau: String, matKhauMoi: String): boolean&#10;- xacThucMatKhauCu(): bool&#10;+ xemHoSo(): HoSo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-3" vertex="1">
-                    <mxGeometry y="74" width="339" height="77" as="geometry"/>
+                    <mxGeometry y="80" width="339" height="77" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-7" value="HoSo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
                     <mxGeometry x="531" y="183.5" width="189" height="205" as="geometry"/>
