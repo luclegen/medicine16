@@ -10,7 +10,8 @@ CÁC KÝ HIỆU
 1. Quyền truy cập
 * private   (-): Chỉ truy cập được trong một lớp.
 * public    (+): Có thể truy cập được trong mọi lớp.
-* protected (#): Có thể truy cập được trong lớp con hoặc lớp ở trong cùng một gói.
+* protected (#): Có thể truy cập được trong lớp con.
+* package   (~): Có thể truy cập được trong cùng một gói.
 
 2. Các thành phần:
 * Class (lớp): MotHaiBa -> Kiểu dữ kiệu của đối tượng.
@@ -37,3 +38,11 @@ CÁC KÝ HIỆU
 * char (Character): một kí tự
 * String: Chuỗi (nhiều) kí tự
 * class: Khach, NguoiDung,...
+
+4. Multiplicity - Các tính đa dạng
+  Sử dụng để thể hiện quan hệ về số lượng giữa các đối tượng được tạo từ các class trong biểu đồ lớp.
+  0...1: 0 hoặc 1
+  n : Bắt buộc có n
+  0...* : 0 hoặc nhiều
+  1...* : 1 hoặc nhiều
+  m...n: có tối thiểu là m và tối đa là n
