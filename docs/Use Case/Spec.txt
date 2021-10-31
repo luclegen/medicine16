@@ -1,14 +1,14 @@
 ĐẶC TẢ USE CASE
 
 Cách 1: Viết đặc tả cho các Use Case
-- Tên Use Case //Account Details
-  + Mã số Use Case //UC1.1
-  + Mô tả tóm tắt// Hiển thị thông tin chi tiết của Account
+- Tên Use Case (Use Case Name) //Account Details
+  + Mã số Use Case (Use Case ID) //UC1.1
+  + Mô tả tóm tắt (Use Case Description) // Hiển thị thông tin chi tiết của Account
   + Các bước thực hiện // Liệt kê các bước thực hiện
 - Điều kiện thoát // Khi người dùng kích nút Close
-  + Yêu cầu đặc biệt// Ghi rõ nếu có
-  + Yêu cầu trước khi thực hiện// Phải đăng nhập
-  + Điều kiện sau khi thực hiện // Ghi rõ những điều kiện nếu có sau khi thực hiện Use Case này
+  + Yêu cầu đặc biệt (Business Rules) // Ghi rõ nếu có
+  + Yêu cầu trước khi thực hiện (Pre-Condition) // Phải đăng nhập
+  + Điều kiện sau khi thực hiện (Post-Condition) // Ghi rõ những điều kiện nếu có sau khi thực hiện Use Case này
 
 Cách 2: Sử dụng các biểu đồ để đặc tả
 - Activity Diagram
