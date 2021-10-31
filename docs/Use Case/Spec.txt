@@ -6,7 +6,7 @@ Cách 1: Viết đặc tả cho các Use Case
   + Mô tả tóm tắt (Use Case Description) // Hiển thị thông tin chi tiết của Account
   + Các bước thực hiện // Liệt kê các bước thực hiện
 - Điều kiện thoát // Khi người dùng kích nút Close
-  + Yêu cầu đặc biệt (Trigger) // Ghi rõ nếu có
+  + Yêu cầu đặc biệt (Business Rules) // Ghi rõ nếu có
   + Yêu cầu trước khi thực hiện (Pre-Condition) // Phải đăng nhập
   + Điều kiện sau khi thực hiện (Post-Condition) // Ghi rõ những điều kiện nếu có sau khi thực hiện Use Case này
 
