@@ -12,5 +12,5 @@ DB: User (Class/object: fields, methods)
 6) Join: Thể hiện trường hợp phải thực hiện hai hay nhiều hành động trước rồi mới thực hiện hành động tiếp theo.
 
 Bước 1: Xác định các nghiệp vụ cần mô tả.
-Bước 2: Xác định trạng thái đầu tiên và trạng thái kết thúc
+Bước 2: Xác định trạng thái đầu tiên và trạng thái kết thúc.
 Bước 3: Xác định các hoạt động tiếp theo.
