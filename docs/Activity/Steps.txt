@@ -2,15 +2,15 @@ VẼ BIỂU ĐỒ HOẠT ĐỘNG
 
 DB: User (Class/object: fields, methods)
 
-1) Swimlance: Xác định đối tượng nào tham gia hoạt động nào trong một qui trình
+1) Swimlane: Xác định đối tượng nào tham gia hoạt động nào trong một qui trình.
 2) Nút Start, End:
-- Start thể hiện điểm bắt đầu qui trình;
-- End thể hiện điểm kết thúc qui trình;
-3) Activity: Mô tả một hoạt động trong hệ thống
+- Start thể hiện điểm bắt đầu qui trình.
+- End thể hiện điểm kết thúc qui trình.
+3) Activity (Action): Mô tả một hoạt động trong hệ thống.
 4) Branch: Thể hiện rẽ nhánh trong mệnh đề điều kiện.
 5) Fork: Thể hiện cho trường hợp thực hiện xong một hoạt động rồi sẽ rẽ nhánh thực hiện nhiều hoạt động tiếp theo.
 6) Join: Thể hiện trường hợp phải thực hiện hai hay nhiều hành động trước rồi mới thực hiện hành động tiếp theo.
 
-Bước 1: Xác định các nghiệp vụ cần mô tả
-Bước 2: Xác định trạng thái đầu tiên và trạng thái kết thúc
-Bước 3: Xác định các hoạt động tiếp theo
+Bước 1: Xác định các nghiệp vụ cần mô tả.
+Bước 2: Xác định trạng thái đầu tiên và trạng thái kết thúc.
+Bước 3: Xác định các hoạt động tiếp theo.
