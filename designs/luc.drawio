@@ -558,7 +558,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="We2YbBCDmvpR-WZXAudC" name="Activity">
-        <mxGraphModel dx="592" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="805" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-0"/>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-1" parent="U5nRoT2ZkZ10vHxXtmYd-0"/>
@@ -590,10 +590,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-6" value="Medicine16" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
-                    <mxGeometry x="274" y="76" width="203" height="321" as="geometry"/>
+                    <mxGeometry x="274" y="76" width="174" height="321" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-28" value="Hiển thị thông tin" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-6" vertex="1">
-                    <mxGeometry x="22" y="119" width="160" height="32" as="geometry"/>
+                    <mxGeometry x="22" y="119" width="129" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-29" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;endArrow=open;rounded=0;verticalAlign=bottom;endSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="U5nRoT2ZkZ10vHxXtmYd-1" source="NLSOf4ZiUp4NOGj-0zm8-22" target="NLSOf4ZiUp4NOGj-0zm8-28" edge="1">
                     <mxGeometry relative="1" as="geometry">
