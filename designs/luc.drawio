@@ -563,13 +563,13 @@
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-0"/>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-1" parent="U5nRoT2ZkZ10vHxXtmYd-0"/>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-4" value="Khách" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
-                    <mxGeometry x="104" y="76" width="196" height="321" as="geometry"/>
+                    <mxGeometry x="104" y="76" width="170" height="321" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-5" value="" style="shape=ellipse;html=1;fillColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
-                    <mxGeometry x="78" y="36" width="40" height="40" as="geometry"/>
+                    <mxGeometry x="64" y="36" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-22" value="Truy cập vào ứng dụng" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
-                    <mxGeometry x="18" y="119" width="160" height="32" as="geometry"/>
+                    <mxGeometry x="19.5" y="119" width="129" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;endArrow=open;rounded=0;verticalAlign=bottom;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NLSOf4ZiUp4NOGj-0zm8-4" source="NLSOf4ZiUp4NOGj-0zm8-5" target="NLSOf4ZiUp4NOGj-0zm8-22" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -578,10 +578,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-31" value="Thoát ứng dụng" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
-                    <mxGeometry x="18" y="194" width="160" height="32" as="geometry"/>
+                    <mxGeometry x="20" y="194" width="129" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-33" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
-                    <mxGeometry x="78" y="269" width="40" height="40" as="geometry"/>
+                    <mxGeometry x="64" y="269" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-35" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;endArrow=open;rounded=0;verticalAlign=bottom;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="NLSOf4ZiUp4NOGj-0zm8-4" source="NLSOf4ZiUp4NOGj-0zm8-31" target="NLSOf4ZiUp4NOGj-0zm8-33" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -590,10 +590,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-6" value="Medicine16" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
-                    <mxGeometry x="300" y="76" width="206" height="321" as="geometry"/>
+                    <mxGeometry x="274" y="76" width="203" height="321" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-28" value="Hiển thị thông tin" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-6" vertex="1">
-                    <mxGeometry x="27" y="119" width="160" height="32" as="geometry"/>
+                    <mxGeometry x="22" y="119" width="160" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-29" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;endArrow=open;rounded=0;verticalAlign=bottom;endSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="U5nRoT2ZkZ10vHxXtmYd-1" source="NLSOf4ZiUp4NOGj-0zm8-22" target="NLSOf4ZiUp4NOGj-0zm8-28" edge="1">
                     <mxGeometry relative="1" as="geometry">
