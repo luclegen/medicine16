@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="-ITIplBQpWQnbig9K1bM" name="Use Case">
-        <mxGraphModel dx="592" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="617" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -558,11 +558,14 @@
         </mxGraphModel>
     </diagram>
     <diagram id="We2YbBCDmvpR-WZXAudC" name="Activity">
-        <mxGraphModel dx="805" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="617" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-0"/>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-1" parent="U5nRoT2ZkZ10vHxXtmYd-0"/>
-                <mxCell id="NLSOf4ZiUp4NOGj-0zm8-4" value="Khách" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="D7z9O9RP7MmcmFZM68gV-2" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;xem thông tin phòng khám&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=174;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="U5nRoT2ZkZ10vHxXtmYd-1">
+                    <mxGeometry x="95" y="37" width="362" height="369" as="geometry"/>
+                </mxCell>
+                <mxCell id="NLSOf4ZiUp4NOGj-0zm8-4" value="Khách" style="swimlane;startSize=23;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="104" y="76" width="170" height="321" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-5" value="" style="shape=ellipse;html=1;fillColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
@@ -577,7 +580,7 @@
                         <mxPoint x="306" y="180" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="NLSOf4ZiUp4NOGj-0zm8-31" value="Thoát ứng dụng" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
+                <mxCell id="NLSOf4ZiUp4NOGj-0zm8-31" value="Xem thông tin" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
                     <mxGeometry x="20" y="194" width="129" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="NLSOf4ZiUp4NOGj-0zm8-33" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" parent="NLSOf4ZiUp4NOGj-0zm8-4" vertex="1">
