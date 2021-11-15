@@ -1,5 +1,12 @@
-Bước 1: Xác định chức năng (Use Case Diagram) cần thiết kế.
-Bước 2: Xác định các bước thực hiện theo nghiệp vụ (Activity Diagram).
-Bước 3: Xác định các lớp trong hệ thống tham gia vào nghiệp vụ (Class Diagram).
+Sequence Diagarm là biểu đồ mô tả sự tương tác của các đối tượng để tạo nên các chức năng của hệ thống.
+Bước 1: Xác định CHỨC NĂNG (Use Case Diagram) cần thiết kế.
+  + Object (đối tượng - actor)
+  + chức năng - Use Case
+  + Stimulus - message
+  + Axes
+    1. vertical: Thời gian nhận và gửi Stimulus
+    2. horizontal: Đối tượng
+Bước 2: Xác định CÁC BƯỚC thực hiện theo nghiệp vụ (Activity Diagram).
+Bước 3: Xác định CÁC LỚP trong hệ thống tham gia vào nghiệp vụ (Class Diagram).
 Bước 4: Vẽ Sequence Diagarm
 Bước 5: Cập nhật lại biểu đồ Class Diagram
