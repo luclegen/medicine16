@@ -1,0 +1,5 @@
+Bước 1: Xác định chức năng (Use Case Diagram) cần thiết kế.
+Bước 2: Xác định các bước thực hiện theo nghiệp vụ (Activity Diagram).
+Bước 3: Xác định các lớp trong hệ thống tham gia vào nghiệp vụ (Class Diagram).
+Bước 4: Vẽ Sequence Diagarm
+Bước 5: Cập nhật lại biểu đồ Class Diagram
