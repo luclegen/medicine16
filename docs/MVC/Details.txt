@@ -1,4 +1,0 @@
-MVC
-Model: Mô hình của dữa liệu
-View: Khung nhìn mà người dùng có thể nhìn thấy
-Controller: Trình điều khiển quản lý các sự kiện thao tác của người dùng

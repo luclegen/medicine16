@@ -1,0 +1,16 @@
+MVC Pattern
+- Là mô hình xoay quanh 3 thành phần:
+1. Model: Mô hình của dữa liệu
+VD: Người Dùng, Quản Trị Viên,...
+2. View: Khung nhìn mà người dùng có thể nhìn thấy và tương tác
+VD: Cửa sổ đăng nhập, đăng ký,...
+3. Controller: Trình điều khiển xử lý các sự kiện với mỗi tương tác của người dùng với View
+VD: Các sự kiện nhận diện của tương tác: Nhấn vào nút đăng nhập, đăng ký,...
+
+EBC Pattern
+https://en.wikipedia.org/wiki/Entity-control-boundary
+- Là mô hình đơn giản hóa của mô hình MVC
+- Xoay quanh xoay quanh 3 thành phần:
+1. Entity - Model: Giao tiếp với Control
+2. Boundary - View: Giao tiếp với Actor và Control
+3. Control - Controller: Giao tiếp với Boundary, Entity và Control khác
