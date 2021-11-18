@@ -1,9 +1,12 @@
 <mxfile host="65bd71144e">
     <diagram id="hYO0BqWnztyafunx5qge" name="Sequence">
-        <mxGraphModel dx="1205" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="949" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-0"/>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-1" parent="y5QXInuoOT5gI2i9BKBk-0"/>
+                <mxCell id="136" value="&lt;b&gt;Biểu đồ tuần tự của Đăng nhập&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="y5QXInuoOT5gI2i9BKBk-1">
+                    <mxGeometry x="-113" y="46" width="845" height="650" as="geometry"/>
+                </mxCell>
                 <mxCell id="36" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="y5QXInuoOT5gI2i9BKBk-1" vertex="1">
                     <mxGeometry x="325" y="83" width="40" height="600" as="geometry"/>
                 </mxCell>
