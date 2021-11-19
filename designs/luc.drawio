@@ -4,6 +4,9 @@
             <root>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-0"/>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-1" parent="y5QXInuoOT5gI2i9BKBk-0"/>
+                <mxCell id="5RYJLWfAIgPSWgbp0MHi-308" value="&lt;b&gt;Biểu đồ tuần tự của Thống kê&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=128;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="y5QXInuoOT5gI2i9BKBk-1">
+                    <mxGeometry x="-112.5" y="1230" width="747.5" height="401" as="geometry"/>
+                </mxCell>
                 <mxCell id="300" value="&lt;div style=&quot;text-align: left&quot;&gt;Kết quả thống kê&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="y5QXInuoOT5gI2i9BKBk-1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="124.5" y="1584" as="sourcePoint"/>
@@ -459,7 +462,7 @@
                     <mxGeometry x="15" y="94" width="10" height="216" as="geometry"/>
                 </mxCell>
                 <mxCell id="264" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="y5QXInuoOT5gI2i9BKBk-1">
-                    <mxGeometry x="522" y="1270" width="40" height="350" as="geometry"/>
+                    <mxGeometry x="582" y="1270" width="40" height="350" as="geometry"/>
                 </mxCell>
                 <mxCell id="290" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="264">
                     <mxGeometry x="15" y="271" width="10" height="30" as="geometry"/>
@@ -477,7 +480,7 @@
                     <mxGeometry x="5" y="76" width="10" height="261" as="geometry"/>
                 </mxCell>
                 <mxCell id="270" value="SanPham" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="y5QXInuoOT5gI2i9BKBk-1">
-                    <mxGeometry x="510.5" y="1313" width="63" height="18" as="geometry"/>
+                    <mxGeometry x="570.5" y="1313" width="63" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="271" value="1. Nhấn vào mục thống kê" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="y5QXInuoOT5gI2i9BKBk-1" source="269">
                     <mxGeometry width="80" relative="1" as="geometry">
@@ -533,7 +536,7 @@
                         <mxPoint x="-69.5" y="1529" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="288" value="5-B. thongKe(khoangThoiGian, loaiSanPham)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="y5QXInuoOT5gI2i9BKBk-1">
+                <mxCell id="288" value="5-B. thongKe(thoiDiemBatDau, thoiDiemKetThuc, loaiSanPham)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="y5QXInuoOT5gI2i9BKBk-1" target="290">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="263.5" y="1541" as="sourcePoint"/>
                         <mxPoint x="537" y="1541" as="targetPoint"/>
@@ -560,9 +563,6 @@
                         <mxPoint x="-70.5" y="1454" as="sourcePoint"/>
                         <mxPoint x="124.5" y="1454" as="targetPoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="5RYJLWfAIgPSWgbp0MHi-308" value="&lt;b&gt;Biểu đồ tuần tự của Thống kê&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=128;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="y5QXInuoOT5gI2i9BKBk-1">
-                    <mxGeometry x="-112.5" y="1230" width="686" height="401" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
