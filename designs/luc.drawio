@@ -349,7 +349,7 @@
                         <mxPoint x="2" y="1082" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="174" value="6. taoLichKham(tenNguoiDung)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" target="175" edge="1">
+                <mxCell id="174" value="6. LichKham(tenNguoiDung)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" target="175" edge="1">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="320" y="1102" as="sourcePoint"/>
                         <mxPoint x="626.5" y="1102" as="targetPoint"/>
