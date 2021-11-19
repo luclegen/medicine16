@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="1017" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="805" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -117,7 +117,7 @@
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
                     <mxGeometry y="52" width="339" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-39" value="+ QuanTriVien(String, String, String)&#10;+ xemHoSo(maND: String): HoSo&#10;+ taoTaiKhoan(NhanVien): NhanVien&#10;+ quanLyTaiKhoan(maND: String): void&#10;+ xoaTaiKhoan(maND: String): boolean&#10;+ khoaTaiKhoan(maND: String, khoa: boolean): boolean&#10;+ doiMatKhau(matKhau: String): boolean&#10;+ thongKe(khoangThoiGian: int, loaiSanPham: LoaiSanPham):&#10;ArrayList&lt;SanPham&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
+                <mxCell id="Bfy0t6FlsVSRHwe1O9fa-39" value="+ QuanTriVien(String, String, String)&#10;+ xemHoSo(maND: String): HoSo&#10;+ taoTaiKhoan(NhanVien): NhanVien&#10;+ quanLyTaiKhoan(maND: String): void&#10;+ xoaTaiKhoan(maND: String): boolean&#10;+ khoaTaiKhoan(maND: String, khoa: boolean): boolean&#10;+ doiMatKhau(matKhau: String): boolean&#10;+ thongKe(thoiDiemBatDau: Date, thoiDiemKetThuc: Date,&#10;loaiSanPham: LoaiSanPham): ArrayList&lt;SanPham&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Bfy0t6FlsVSRHwe1O9fa-36" vertex="1">
                     <mxGeometry y="60" width="339" height="135" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bfy0t6FlsVSRHwe1O9fa-48" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-36" target="Bfy0t6FlsVSRHwe1O9fa-15" edge="1">
@@ -424,10 +424,10 @@
                 <mxCell id="Te8Xc130O7UyP85CIERI-29" value="Quản lý" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#ffffff;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
                     <mxGeometry x="489" y="855" width="51" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
+                <mxCell id="2" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
                     <mxGeometry x="452" y="840" width="28" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="6_7IvhSVjIORikNHzV9K-2" value="" style="group" vertex="1" connectable="0" parent="KZGz6qvaDioqa39ONcW2-1">
+                <mxCell id="6_7IvhSVjIORikNHzV9K-2" value="" style="group" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1" connectable="0">
                     <mxGeometry x="453" y="454" width="76" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="Te8Xc130O7UyP85CIERI-43" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6_7IvhSVjIORikNHzV9K-2" vertex="1">
@@ -436,7 +436,7 @@
                 <mxCell id="-4VuDyJ2iGFGIPSoZoAQ-7" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6_7IvhSVjIORikNHzV9K-2" vertex="1">
                     <mxGeometry width="16" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="6_7IvhSVjIORikNHzV9K-3" value="" style="group" vertex="1" connectable="0" parent="KZGz6qvaDioqa39ONcW2-1">
+                <mxCell id="6_7IvhSVjIORikNHzV9K-3" value="" style="group" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1" connectable="0">
                     <mxGeometry x="773" y="591" width="16" height="59.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="-4VuDyJ2iGFGIPSoZoAQ-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6_7IvhSVjIORikNHzV9K-3" vertex="1">
@@ -445,7 +445,7 @@
                 <mxCell id="-4VuDyJ2iGFGIPSoZoAQ-15" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6_7IvhSVjIORikNHzV9K-3" vertex="1">
                     <mxGeometry width="16" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="6_7IvhSVjIORikNHzV9K-4" value="" style="group" vertex="1" connectable="0" parent="KZGz6qvaDioqa39ONcW2-1">
+                <mxCell id="6_7IvhSVjIORikNHzV9K-4" value="" style="group" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1" connectable="0">
                     <mxGeometry x="1302" y="412" width="70" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="-4VuDyJ2iGFGIPSoZoAQ-20" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6_7IvhSVjIORikNHzV9K-4" vertex="1">
