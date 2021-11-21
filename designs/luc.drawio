@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hYO0BqWnztyafunx5qge" name="Sequence">
-        <mxGraphModel dx="949" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1205" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-0"/>
                 <mxCell id="y5QXInuoOT5gI2i9BKBk-1" parent="y5QXInuoOT5gI2i9BKBk-0"/>
@@ -497,7 +497,7 @@
                 <mxCell id="267" value="QuanTriVien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;labelBackgroundColor=#FFFFFF;" parent="y5QXInuoOT5gI2i9BKBk-1" vertex="1">
                     <mxGeometry x="-113" y="1313" width="77" height="18" as="geometry"/>
                 </mxCell>
-                <mxCell id="277" value="4. Thống kê" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" edge="1">
+                <mxCell id="277" value="5. Thống kê" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" edge="1">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="135.5" y="1465" as="sourcePoint"/>
                         <mxPoint x="253.5" y="1465" as="targetPoint"/>
@@ -515,7 +515,7 @@
                 <mxCell id="281" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" parent="y5QXInuoOT5gI2i9BKBk-1" vertex="1">
                     <mxGeometry x="258.5" y="1491" width="10" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="282" value="5-A. [Nếu thông tin không hợp lệ] hienThi(canhBao)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y5QXInuoOT5gI2i9BKBk-1" target="281" edge="1">
+                <mxCell id="282" value="6-A. [Nếu thông tin không hợp lệ] hienThi(canhBao)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="y5QXInuoOT5gI2i9BKBk-1" target="281" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="263.5" y="1471" as="sourcePoint"/>
                         <Array as="points">
@@ -536,7 +536,7 @@
                         <mxPoint x="-69.5" y="1529" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="288" value="5-B. thongKe(thoiDiemBatDau, thoiDiemKetThuc, loaiSanPham)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" target="290" edge="1">
+                <mxCell id="288" value="6-B. thongKe(thoiDiemBatDau, thoiDiemKetThuc, loaiSanPham)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="y5QXInuoOT5gI2i9BKBk-1" target="290" edge="1">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="263.5" y="1541" as="sourcePoint"/>
                         <mxPoint x="537" y="1541" as="targetPoint"/>
