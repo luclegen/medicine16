@@ -222,7 +222,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="dJ8TIa0oOEzLZdp0TVPH" name="Sequence">
-        <mxGraphModel dx="1247" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="606" dy="279" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="ban3GIgoiY41HupAhzNf-0"/>
                 <mxCell id="ban3GIgoiY41HupAhzNf-1" parent="ban3GIgoiY41HupAhzNf-0"/>
