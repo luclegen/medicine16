@@ -612,9 +612,6 @@
                 <mxCell id="36" value="DiemDanh" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="djXMddFxfdRg93dInKg0-1">
                     <mxGeometry x="795" y="1697" width="40" height="650" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="36">
-                    <mxGeometry x="15" y="318" width="10" height="36" as="geometry"/>
-                </mxCell>
                 <mxCell id="38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="36">
                     <mxGeometry x="15" y="435" width="10" height="38" as="geometry"/>
                 </mxCell>
