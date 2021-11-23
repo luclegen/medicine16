@@ -5,7 +5,7 @@
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="30" value="&lt;b&gt;Biểu đồ tuần tự của Điểm danh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=127;height=32;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="djXMddFxfdRg93dInKg0-1">
-                    <mxGeometry x="-112" y="1644" width="961" height="687" as="geometry"/>
+                    <mxGeometry x="-112" y="1644" width="961" height="696" as="geometry"/>
                 </mxCell>
                 <mxCell id="71" value="alt" style="strokeColor=#9673a6;fillColor=#e1d5e7;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;labelBackgroundColor=none;" vertex="1" parent="djXMddFxfdRg93dInKg0-1">
                     <mxGeometry x="-102" y="2217" width="363" height="77" as="geometry"/>
