@@ -19,6 +19,7 @@ Bước 2: Tìm các thuộc tính và phương thức cho lớp
   + Người dùng (Đăng xuất, Đổi mật khẩu,...)
 
 Bước 3: Xây dựng các quan hệ giữa các lớp và phát hiện các lớp phát sinh
+https://www.niviki.com/association-aggregation-composition-dependency-la-gi/
 - Relationship (các quan hệ)
   + Association: là quan hệ giữa hai lớp với nhau.
   + Aggregation: là một loại của quan hệ Association nhưng mạnh hơn. (Trước mất thì sau vẫn còn)
