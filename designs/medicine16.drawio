@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="gPF1087cUfQgEtXphwf_" name="Class">
-        <mxGraphModel dx="805" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="587" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-0"/>
                 <mxCell id="KZGz6qvaDioqa39ONcW2-1" parent="KZGz6qvaDioqa39ONcW2-0"/>
@@ -1392,7 +1392,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="MBymZvRxtM8xUYwRDWeC" name="Use Case">
-        <mxGraphModel dx="805" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="587" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1519,7 +1519,7 @@
                         <mxPoint x="450" y="519" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="73" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; lý&lt;br&gt;bệnh nhân&lt;br&gt;nhân viên&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="73" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Quản&lt;/span&gt;&lt;span style=&quot;font-size: 13.0pt ; line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; lý&lt;br&gt;bệnh nhân/&lt;br&gt;nhân viên&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="570.5" y="1363.5" width="146" height="69" as="geometry"/>
                 </mxCell>
                 <mxCell id="74" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
