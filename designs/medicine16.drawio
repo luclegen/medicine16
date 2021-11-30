@@ -1450,7 +1450,7 @@
                     <mxGeometry x="-113" y="708" width="758" height="510" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-48" value="alt" style="strokeColor=#9673a6;fillColor=#e1d5e7;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="-101" y="1113" width="323" height="90" as="geometry"/>
+                    <mxGeometry x="-101" y="1113" width="326" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-49" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;BenhNhan&lt;/span&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="-13" y="742" width="20" height="470" as="geometry"/>
