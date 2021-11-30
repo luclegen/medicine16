@@ -1447,7 +1447,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-47" value="&lt;b&gt;Biểu đồ tuần tự của Đăng ký khám bệnh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=128;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="-113" y="708" width="758" height="510" as="geometry"/>
+                    <mxGeometry x="-113" y="708" width="768" height="510" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-48" value="alt" style="strokeColor=#9673a6;fillColor=#e1d5e7;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="-101" y="1113" width="326" height="90" as="geometry"/>
