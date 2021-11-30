@@ -1740,7 +1740,7 @@
                     <mxGeometry x="20" y="125" width="10" height="33" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="31" vertex="1">
-                    <mxGeometry x="20" y="174" width="10" height="372" as="geometry"/>
+                    <mxGeometry x="20" y="174" width="10" height="380" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;NhanVien&lt;/span&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="792" y="1634" width="40" height="570" as="geometry"/>
@@ -1761,7 +1761,7 @@
                     <mxGeometry x="-16" y="1634" width="22" height="570" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="45" vertex="1">
-                    <mxGeometry x="6" y="74" width="10" height="482" as="geometry"/>
+                    <mxGeometry x="6" y="74" width="10" height="490" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="1. Dùng thẻ nhân viên cho vào khe đọc thẻ" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="46" target="32" edge="1">
                     <mxGeometry width="80" relative="1" as="geometry">
