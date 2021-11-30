@@ -1135,7 +1135,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HbIQ4a5Xoo7APK2fww8G" name="Sequence">
-        <mxGraphModel dx="1177" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1417" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
@@ -1777,7 +1777,7 @@
                         <mxPoint y="1850.5" as="sourcePoint"/>
                         <mxPoint x="235" y="1850.5" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="95" y="1850"/>
+                            <mxPoint x="188" y="1847"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1884,7 +1884,7 @@
                         <mxPoint x="-2" y="1801" as="sourcePoint"/>
                         <mxPoint x="233" y="1801" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="204" y="1801"/>
+                            <mxPoint x="194" y="1798"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
