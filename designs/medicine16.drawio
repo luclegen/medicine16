@@ -1135,7 +1135,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HbIQ4a5Xoo7APK2fww8G" name="Sequence">
-        <mxGraphModel dx="1161" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="921" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
@@ -1933,7 +1933,7 @@
                 <mxCell id="6Adev2iuH-UKAT75GiXK-94" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="6Adev2iuH-UKAT75GiXK-90" vertex="1">
                     <mxGeometry x="20" y="150" width="10" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="6Adev2iuH-UKAT75GiXK-95" value="QuanLyQuayThuoc&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Controller&lt;/span&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
+                <mxCell id="6Adev2iuH-UKAT75GiXK-95" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;QuanLyQuayThuocController&lt;/span&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="316" y="2372" width="40" height="360" as="geometry"/>
                 </mxCell>
                 <mxCell id="6Adev2iuH-UKAT75GiXK-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="6Adev2iuH-UKAT75GiXK-95" vertex="1">
