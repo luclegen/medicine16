@@ -1135,7 +1135,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HbIQ4a5Xoo7APK2fww8G" name="Sequence">
-        <mxGraphModel dx="1417" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1177" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
@@ -1453,13 +1453,13 @@
                     <mxGeometry x="-102" y="1050" width="326" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-49" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;BenhNhan&lt;/span&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="-13" y="742" width="20" height="400" as="geometry"/>
+                    <mxGeometry x="-13" y="742" width="20" height="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="djXMddFxfdRg93dInKg0-49" vertex="1">
-                    <mxGeometry x="5" y="76" width="10" height="313" as="geometry"/>
+                    <mxGeometry x="5" y="76" width="10" height="326" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-51" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;DangKyKhamBenhView&lt;/span&gt;" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="182" y="742" width="50" height="400" as="geometry"/>
+                    <mxGeometry x="182" y="742" width="50" height="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="djXMddFxfdRg93dInKg0-51" vertex="1">
                     <mxGeometry x="20" y="76" width="10" height="20" as="geometry"/>
@@ -1471,16 +1471,16 @@
                     <mxGeometry x="20" y="150" width="10" height="23" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="djXMddFxfdRg93dInKg0-51" vertex="1">
-                    <mxGeometry x="20" y="191" width="10" height="188" as="geometry"/>
+                    <mxGeometry x="20" y="191" width="10" height="201" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-56" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;DangKyKhamBenhController&lt;/span&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="341" y="742" width="40" height="400" as="geometry"/>
+                    <mxGeometry x="341" y="742" width="40" height="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="djXMddFxfdRg93dInKg0-56" vertex="1">
                     <mxGeometry x="15" y="194" width="10" height="152" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-58" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;LichKham&lt;/span&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
-                    <mxGeometry x="623.5" y="742" width="40" height="400" as="geometry"/>
+                    <mxGeometry x="623.5" y="742" width="40" height="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="djXMddFxfdRg93dInKg0-59" value="1. Nhấn vào mục đăng lý khám bệnh&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="djXMddFxfdRg93dInKg0-50" edge="1" target="djXMddFxfdRg93dInKg0-52">
                     <mxGeometry width="80" relative="1" as="geometry">
