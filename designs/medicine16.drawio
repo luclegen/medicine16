@@ -1341,12 +1341,12 @@
                         <mxPoint x="146" y="365" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="djXMddFxfdRg93dInKg0-33" value="5-B. [ketQua == true] Yêu cầu nhập mật khẩu" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="djXMddFxfdRg93dInKg0-13" edge="1">
+                <mxCell id="djXMddFxfdRg93dInKg0-33" value="5-B. [ketQua == true] Yêu cầu nhập mật khẩu" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="djXMddFxfdRg93dInKg0-13" edge="1" target="djXMddFxfdRg93dInKg0-9">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="350" y="396" as="sourcePoint"/>
                         <mxPoint x="146" y="396" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="189" y="396"/>
+                            <mxPoint x="249" y="383"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1355,7 +1355,7 @@
                         <mxPoint x="116" y="414" as="sourcePoint"/>
                         <mxPoint x="-86" y="414" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="-29" y="407"/>
+                            <mxPoint x="106" y="402"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1433,7 +1433,7 @@
                         <mxPoint x="360" y="628" as="sourcePoint"/>
                         <mxPoint x="146" y="628" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="278" y="628"/>
+                            <mxPoint x="309" y="616"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1442,7 +1442,7 @@
                         <mxPoint x="116" y="643" as="sourcePoint"/>
                         <mxPoint x="-86" y="643" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="-45" y="643"/>
+                            <mxPoint x="79" y="632"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
