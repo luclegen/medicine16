@@ -595,6 +595,24 @@
                         <mxPoint x="450" y="240" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Đăng nhập&lt;/span&gt;" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;exitX=0.409;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.411;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-2" target="Bfy0t6FlsVSRHwe1O9fa-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="251" y="77" as="sourcePoint"/>
+                        <mxPoint x="250.54899999999998" y="147.17000000000007" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="" style="triangle;fillColor=#000000;direction=south;aspect=fixed;" vertex="1" parent="KZGz6qvaDioqa39ONcW2-1">
+                    <mxGeometry x="254" y="106" width="12" height="6" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="group" vertex="1" connectable="0" parent="KZGz6qvaDioqa39ONcW2-1">
+                    <mxGeometry x="223" y="77" width="28" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="86">
+                    <mxGeometry width="28" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="86">
+                    <mxGeometry y="43" width="28" height="18" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
