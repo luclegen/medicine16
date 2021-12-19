@@ -1,0 +1,26 @@
+https://codelearn.io/sharing/cac-bieu-do-thiet-ke-phan-mem?fbclid=IwAR0AvjCHkQ-ibvimXGGGDJrJuALZH3kZofHpfB96GQo4nS4PLkujbfvAtww
+Bước 1: Chia hệ thống (system) thành các hệ thống con (subsystem)
+Bước 2: Xác định các thành phần
+* Component -> subsystem -> System
+
+1. Component (thành phần)
+- Là một thành phần của phần mềm được đóng gói độc lập.
+- Có thể được triển khai độc lập trên hệ thống
+- Có khả năng tương tác với các thành phần khác khi thực hiện các chức năng của hệ thống.
+
+2. Interfaces (giao diện)
+- Một vòng tròn hoàn chỉnh ở cuối: đại diện cho một giao diện mà thành phần cung cấp
+- Nửa vòng tròn ở cuối (ổ cắm): đại diện cho giao diện mà thành phần yêu cầu
+
+3. Subsystems (hệ thống con)
+- Là một phiên bản chuyên biệt của bộ phân loại thành phần.
+- Phần tử ký hiệu hệ thống con kế thừa tất cả các quy tắc giống như phần tử ký hiệu thành phần
+
+4. Port (cổng)
+- Được biểu diễn bằng hình vuông dọc theo cạnh của hệ thống hoặc một thành phần
+- Giúp hiển thị các giao diện được yêu cầu và cung cấp của một thành phần.
+
+5. Dependencies (sự phụ thuộc)
+- Thể hiện các thành phần của phần mềm luôn cần sử dụng một số chức năng ở các thành phần khác. (khác hệ thống con)
+
+Bước 3: Vẽ
