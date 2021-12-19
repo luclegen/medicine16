@@ -1153,7 +1153,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HbIQ4a5Xoo7APK2fww8G" name="Sequence">
-        <mxGraphModel dx="935" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1205" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
@@ -1193,7 +1193,7 @@
                 <mxCell id="71" value="alt" style="strokeColor=#9673a6;fillColor=#e1d5e7;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="-103" y="2076" width="363" height="77" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="&lt;div style=&quot;text-align: left&quot;&gt;Điểm danh thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="46" source="34">
+                <mxCell id="72" value="&lt;div style=&quot;text-align: left&quot;&gt;Điểm danh thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="235" y="2095" as="sourcePoint"/>
                         <mxPoint x="-1" y="2095" as="targetPoint"/>
@@ -1202,7 +1202,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="74" value="&lt;span style=&quot;text-align: left&quot;&gt;Điểm danh&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;thất bại&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="46" source="34">
+                <mxCell id="74" value="&lt;span style=&quot;text-align: left&quot;&gt;Điểm danh&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;thất bại&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="234" y="2133.5" as="sourcePoint"/>
                         <mxPoint x="-1" y="2133.5" as="targetPoint"/>
@@ -1214,7 +1214,7 @@
                 <mxCell id="64" value="alt" style="strokeColor=#9673a6;fillColor=#e1d5e7;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
                     <mxGeometry x="-103" y="1986" width="363" height="77" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="&lt;div style=&quot;text-align: left&quot;&gt;Điểm danh thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="46" source="34">
+                <mxCell id="65" value="&lt;div style=&quot;text-align: left&quot;&gt;Điểm danh thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="236" y="2005" as="sourcePoint"/>
                         <mxPoint x="-1" y="2005" as="targetPoint"/>
@@ -1223,7 +1223,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="68" value="&lt;span style=&quot;text-align: left&quot;&gt;Điểm danh&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;thất bại&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="46" source="34">
+                <mxCell id="68" value="&lt;span style=&quot;text-align: left&quot;&gt;Điểm danh&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;thất bại&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="236" y="2043.5" as="sourcePoint"/>
                         <mxPoint x="-1" y="2043.5" as="targetPoint"/>
@@ -1766,7 +1766,7 @@
                 <mxCell id="34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="31" vertex="1">
                     <mxGeometry x="20" y="125" width="10" height="380" as="geometry"/>
                 </mxCell>
-                <mxCell id="IoU7G8Wihm_zEl17W2oq-88" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="31">
+                <mxCell id="IoU7G8Wihm_zEl17W2oq-88" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="31" vertex="1">
                     <mxGeometry x="20" y="74" width="10" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;NhanVien&lt;/span&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="djXMddFxfdRg93dInKg0-1" vertex="1">
@@ -1814,13 +1814,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="54" value="canhBao" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="86" edge="1" target="34">
+                <mxCell id="54" value="canhBao" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="86" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="434" y="1915" as="sourcePoint"/>
                         <mxPoint x="253" y="1911" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="Thời gian điểm danh không hợp lệ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="46" source="34">
+                <mxCell id="55" value="Thời gian điểm danh không hợp lệ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="236" y="1928" as="sourcePoint"/>
                         <mxPoint x="15" y="1928" as="targetPoint"/>
@@ -1829,18 +1829,18 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="56" value="5-C [Nếu thời điểm điểm danh trong khoảng thời gian điểm danh vào ca]&lt;br&gt;diemDanhVaoCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" target="38" edge="1" source="40">
+                <mxCell id="56" value="5-C [Nếu thời điểm điểm danh trong khoảng thời gian điểm danh vào ca]&lt;br&gt;diemDanhVaoCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="38" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="439" y="1964" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="57" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="38" edge="1" target="40">
+                <mxCell id="57" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="38" target="40" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="463" y="1995" as="targetPoint"/>
                         <mxPoint x="919" y="1984" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="58" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="34" source="40">
+                <mxCell id="58" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="429" y="2084" as="sourcePoint"/>
                         <mxPoint x="288" y="2062" as="targetPoint"/>
@@ -1858,19 +1858,19 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="61" value="5-D [Nếu thời điểm điểm danh trong khoảng thời gian điểm danh tan ca&lt;br&gt;và có thời điểm vào ca trong cùng một buổi] diemDanhTanCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" target="60" edge="1" source="40">
+                <mxCell id="61" value="5-D [Nếu thời điểm điểm danh trong khoảng thời gian điểm danh tan ca&lt;br&gt;và có thời điểm vào ca trong cùng một buổi] diemDanhTanCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="60" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="439" y="2044" as="sourcePoint"/>
                         <mxPoint x="919" y="2044" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="62" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="60" edge="1" target="40">
+                <mxCell id="62" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="60" target="40" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="458" y="2063" as="targetPoint"/>
                         <mxPoint x="789" y="2063" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="63" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" edge="1" target="34" source="40">
+                <mxCell id="63" value="ketQua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="429" y="1994" as="sourcePoint"/>
                         <mxPoint x="246" y="1994" as="targetPoint"/>
@@ -1903,7 +1903,7 @@
                         <mxPoint x="-177" y="2096" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47" value="2. Nhấn nút xác nhận" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="46" edge="1">
+                <mxCell id="47" value="2. Nhấn vào nút xác nhận" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="46" edge="1">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="-2" y="1772" as="sourcePoint"/>
                         <mxPoint x="236" y="1769" as="targetPoint"/>
@@ -2069,7 +2069,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="IoU7G8Wihm_zEl17W2oq-89" value="Bạn có muốn điểm danh?" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="djXMddFxfdRg93dInKg0-1" source="IoU7G8Wihm_zEl17W2oq-88" target="46">
+                <mxCell id="IoU7G8Wihm_zEl17W2oq-89" value="Bạn có muốn điểm danh?" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="IoU7G8Wihm_zEl17W2oq-88" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="234" y="1741" as="sourcePoint"/>
                         <mxPoint x="11" y="1741" as="targetPoint"/>
