@@ -1,0 +1,11 @@
+https://codelearn.io/sharing/cac-bieu-do-thiet-ke-phan-mem?fbclid=IwAR0AvjCHkQ-ibvimXGGGDJrJuALZH3kZofHpfB96GQo4nS4PLkujbfvAtww
+
+Bước 1: Xác định các thành phần phần cứng sẽ tham gia vào việc triển khai hệ thống
+Node
+- Là một thành phần vật lý.
+- Là thiết bị phần cứng hoặc một môi trường nào đó mà các thành phần phần mềm được thực hiện.
+Bước 2: Xác định các thành phần để triển khai lên các Node
+Bước 3: Xác định các quan hệ và hoàn tất biểu đồ
+Relationship
+Association: Là quan hệ giữa hai node với nhau.
+Dependence: Quan hệ phụ thuộc thể hiện quan hệ giữa node này sử dụng node khác.

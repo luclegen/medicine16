@@ -25,6 +25,8 @@ https://www.niviki.com/association-aggregation-composition-dependency-la-gi/
   + Aggregation: là một loại của quan hệ Association nhưng mạnh hơn. (Trước mất thì sau vẫn còn)
   + Composition: là một loại mạnh hơn của Aggregation thể hiện quan hệ class này là một phần của class kia. (Trước mất thì sau mất)
   + Generalization: là quan hệ thừa kế giữa Class - Class.
+  + Dependence: là quan hệ phụ thuộc thể hiện quan hệ giữa lớp này sử dụng enumeration (liệt kê)/interface (giao diện) khác.
+
 - Các lớp phát sinh: Được phát sinh từ những danh từ có trong Use Case (Động từ + Danh từ)
   Hồ sơ (mã HS, Họ, Tên, Số ĐT, Ngày sinh, Giới tính) được phát sinh từ Use Case Xem hồ sơ
 
