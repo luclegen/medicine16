@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="We2YbBCDmvpR-WZXAudC" name="Activity">
-        <mxGraphModel dx="565" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="805" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-0"/>
                 <mxCell id="U5nRoT2ZkZ10vHxXtmYd-1" parent="U5nRoT2ZkZ10vHxXtmYd-0"/>
@@ -205,10 +205,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1" value="Biểu đồ hoạt động của Đăng nhập" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=32;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="1" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Đăng ký khám bệnh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="15" y="786" width="1092" height="722" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="DangNhapController" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="2" value="DangKyKhamBenhController" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="576" y="833" width="257" height="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Đặt lịch khám&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="2" vertex="1">
@@ -217,7 +217,7 @@
                 <mxCell id="64" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="2" vertex="1">
                     <mxGeometry x="103.25" y="343" width="40" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="NguoiDung" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="8" value="LichKham" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="833" y="833" width="257" height="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="66" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Tạo lịch khám&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="8" vertex="1">
@@ -232,7 +232,7 @@
                         <mxPoint x="138" y="222" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="Khach" style="swimlane;startSize=23;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="15" value="BenhNhan" style="swimlane;startSize=23;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="29" y="833" width="290" height="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="" style="shape=ellipse;html=1;fillColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" parent="15" vertex="1">
@@ -274,7 +274,7 @@
                         <mxPoint x="156" y="238" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="DangNhapView" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
+                <mxCell id="24" value="DangKyKhamBenhView" style="swimlane;" parent="U5nRoT2ZkZ10vHxXtmYd-1" vertex="1">
                     <mxGeometry x="319" y="833" width="257" height="660" as="geometry"/>
                 </mxCell>
                 <mxCell id="76" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thông báo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;đăng ký thành công&lt;/span&gt;&lt;/div&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="24">
