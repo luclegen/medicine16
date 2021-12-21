@@ -2079,12 +2079,12 @@
         </mxGraphModel>
     </diagram>
     <diagram id="x3AwBNU2jg_EmpVKNYsR" name="Activity">
-        <mxGraphModel dx="565" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-1" parent="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="DZg06gq7h895vJ8piufb-0" value="Biểu đồ hoạt động của Đăng nhập" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=32;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
-                    <mxGeometry x="15" y="29" width="1070" height="744" as="geometry"/>
+                    <mxGeometry x="15" y="29" width="1067" height="741" as="geometry"/>
                 </mxCell>
                 <mxCell id="DZg06gq7h895vJ8piufb-7" value="NguoiDung" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="809" y="76" width="260" height="680" as="geometry"/>
