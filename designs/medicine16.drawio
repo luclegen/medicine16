@@ -1153,7 +1153,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HbIQ4a5Xoo7APK2fww8G" name="Sequence">
-        <mxGraphModel dx="1177" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1147" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="djXMddFxfdRg93dInKg0-0"/>
                 <mxCell id="djXMddFxfdRg93dInKg0-1" parent="djXMddFxfdRg93dInKg0-0"/>
@@ -1820,7 +1820,7 @@
                         <mxPoint x="253" y="1911" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="Thời gian điểm danh không hợp lệ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
+                <mxCell id="55" value="Thời điểm điểm danh không hợp lệ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="djXMddFxfdRg93dInKg0-1" source="34" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="236" y="1928" as="sourcePoint"/>
                         <mxPoint x="15" y="1928" as="targetPoint"/>
