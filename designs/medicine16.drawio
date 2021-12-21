@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="x3AwBNU2jg_EmpVKNYsR" name="Activity">
-        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="747" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-1" parent="JsVf7PEQ0ditCQqlTYkT-0"/>
@@ -2754,7 +2754,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="56" value="4-C [Nếu thời điểm điểm danh trong khoảng thời gian điểm danh vào ca]&lt;br&gt;diemDanhVaoCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="38" edge="1">
+                <mxCell id="56" value="4-C [Nếu thời điểm điểm danh trong thời gian điểm danh vào ca]&lt;br&gt;diemDanhVaoCa(thoiDiem)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="djXMddFxfdRg93dInKg0-1" source="40" target="38" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="439" y="1964" as="sourcePoint"/>
                     </mxGeometry>
