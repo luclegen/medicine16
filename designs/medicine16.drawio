@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="aVxBZvWUlEP6uHTHMa0O" name="Export">
-        <mxGraphModel dx="805" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="747" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="Waeft02e7VRrRmJe9Fls-0"/>
                 <mxCell id="Waeft02e7VRrRmJe9Fls-1" parent="Waeft02e7VRrRmJe9Fls-0"/>
@@ -8,7 +8,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="x3AwBNU2jg_EmpVKNYsR" name="Activity">
-        <mxGraphModel dx="805" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="747" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-1" parent="JsVf7PEQ0ditCQqlTYkT-0"/>
@@ -898,7 +898,7 @@
                         <mxPoint x="428" y="3688" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="X026mjLKS03Tig6Zwt---105" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Cảnh báo&lt;br&gt;xuất thất bại&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="X026mjLKS03Tig6Zwt---105" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Thông báo&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;xuất thất bại&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="368.5" y="3618" width="129" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="X026mjLKS03Tig6Zwt---104" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Thông báo&lt;br&gt;xuất thành công&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
