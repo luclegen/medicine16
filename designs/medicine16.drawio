@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="x3AwBNU2jg_EmpVKNYsR" name="Activity">
-        <mxGraphModel dx="747" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-1" parent="JsVf7PEQ0ditCQqlTYkT-0"/>
@@ -390,9 +390,6 @@
                 <mxCell id="DZg06gq7h895vJ8piufb-82" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="DZg06gq7h895vJ8piufb-80" vertex="1">
                     <mxGeometry x="110" y="343" width="40" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="DZg06gq7h895vJ8piufb-83" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Xử lý kết quả&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="DZg06gq7h895vJ8piufb-80" vertex="1">
-                    <mxGeometry x="65.5" y="407" width="129" height="32" as="geometry"/>
-                </mxCell>
                 <mxCell id="DZg06gq7h895vJ8piufb-98" value="ThongKeView" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="289" y="1587" width="260" height="530" as="geometry"/>
                 </mxCell>
@@ -476,12 +473,6 @@
                         <Array as="points">
                             <mxPoint x="77" y="1861"/>
                         </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="DZg06gq7h895vJ8piufb-109" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="JsVf7PEQ0ditCQqlTYkT-1" source="DZg06gq7h895vJ8piufb-100" target="DZg06gq7h895vJ8piufb-83" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="907" y="2020" as="targetPoint"/>
-                        <mxPoint x="773.75" y="2020" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="X026mjLKS03Tig6Zwt---36" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Điểm danh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
@@ -921,10 +912,10 @@
                 <mxCell id="X026mjLKS03Tig6Zwt---104" value="&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Thông báo&lt;br&gt;xuất thành công&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="368.5" y="3637" width="129" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="DZg06gq7h895vJ8piufb-86" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="JsVf7PEQ0ditCQqlTYkT-1" source="DZg06gq7h895vJ8piufb-83" target="DZg06gq7h895vJ8piufb-85" edge="1">
+                <mxCell id="DZg06gq7h895vJ8piufb-86" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="JsVf7PEQ0ditCQqlTYkT-1" source="DZg06gq7h895vJ8piufb-100" target="DZg06gq7h895vJ8piufb-85" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1771.5" y="2050" as="targetPoint"/>
-                        <mxPoint x="939" y="1994" as="sourcePoint"/>
+                        <mxPoint x="743.5" y="2010" as="sourcePoint"/>
                         <Array as="points">
                             <mxPoint x="939" y="1995"/>
                         </Array>
