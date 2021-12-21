@@ -153,11 +153,11 @@
         </mxGraphModel>
     </diagram>
     <diagram id="x3AwBNU2jg_EmpVKNYsR" name="Activity">
-        <mxGraphModel dx="805" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1017" dy="343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-0"/>
                 <mxCell id="JsVf7PEQ0ditCQqlTYkT-1" parent="JsVf7PEQ0ditCQqlTYkT-0"/>
-                <mxCell id="DZg06gq7h895vJ8piufb-0" value="Biểu đồ hoạt động của Đăng nhập" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=32;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="DZg06gq7h895vJ8piufb-0" value="act&amp;nbsp;&lt;span style=&quot;font-weight: normal&quot;&gt;Biểu đồ hoạt động của Đăng nhập&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=218;height=27;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="15" y="65" width="1068" height="711" as="geometry"/>
                 </mxCell>
                 <mxCell id="DZg06gq7h895vJ8piufb-7" value="NguoiDung" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
@@ -187,7 +187,7 @@
                         <mxPoint x="141" y="274" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DZg06gq7h895vJ8piufb-45" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Đăng ký khám bệnh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="DZg06gq7h895vJ8piufb-45" value="act&amp;nbsp;&lt;span style=&quot;font-weight: normal&quot;&gt;Biểu đồ hoạt động của&amp;nbsp;Đăng ký khám bệnh&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=268;height=28;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="15" y="796" width="1068" height="720" as="geometry"/>
                 </mxCell>
                 <mxCell id="DZg06gq7h895vJ8piufb-49" value="LichKham" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
@@ -211,7 +211,7 @@
                         <mxPoint x="706.75" y="1158" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DZg06gq7h895vJ8piufb-79" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Thống kê&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="DZg06gq7h895vJ8piufb-79" value="act&lt;span style=&quot;font-weight: normal&quot;&gt; Biểu đồ hoạt động của Thống kê&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=27;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="15" y="1542" width="1068" height="589" as="geometry"/>
                 </mxCell>
                 <mxCell id="DZg06gq7h895vJ8piufb-84" value="SanPham" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
@@ -634,7 +634,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="X026mjLKS03Tig6Zwt---36" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Điểm danh&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="X026mjLKS03Tig6Zwt---36" value="act&amp;nbsp;&lt;span style=&quot;font-weight: normal&quot;&gt;Biểu đồ hoạt động của Điểm danh&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=219;height=27;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="15" y="2157" width="1099" height="988" as="geometry"/>
                 </mxCell>
                 <mxCell id="X026mjLKS03Tig6Zwt---37" value="NhanVien" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
@@ -904,7 +904,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="X026mjLKS03Tig6Zwt---95" value="Biểu đồ hoạt động của&lt;br&gt;&lt;b&gt;Quản lý quầy thuốc&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=146;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
+                <mxCell id="X026mjLKS03Tig6Zwt---95" value="act&lt;span style=&quot;font-weight: normal&quot;&gt; Biểu đồ hoạt động của&amp;nbsp;Quản lý quầy thuốc&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=265;height=27;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneFillColor=#FFFFFF;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
                     <mxGeometry x="15" y="3165" width="1156" height="658" as="geometry"/>
                 </mxCell>
                 <mxCell id="X026mjLKS03Tig6Zwt---96" value="SanPham" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsVf7PEQ0ditCQqlTYkT-1" vertex="1">
