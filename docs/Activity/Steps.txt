@@ -1,15 +1,20 @@
+https://vietluanvanthue.com/activity-diagram-la-gi-cach-xay-dung-activity-diagram/
+
 VẼ BIỂU ĐỒ HOẠT ĐỘNG
 
 DB: User (Class/object: fields, methods)
 
-1) Swimlane: Xác định đối tượng nào tham gia hoạt động nào trong một qui trình.
-2) Nút Start, End:
+1) Control Flow: Mô tả sự chuyển đổi trạng thái của các hoạt động.
+2) Swimlane: Xác định đối tượng nào tham gia hoạt động nào trong một qui trình.
+3) Nút Start, End:
 - Start thể hiện điểm bắt đầu qui trình.
 - End thể hiện điểm kết thúc qui trình.
-3) Activity (Action): Mô tả một hoạt động trong hệ thống.
-4) Branch: Thể hiện rẽ nhánh trong mệnh đề điều kiện.
-5) Fork: Thể hiện cho trường hợp thực hiện xong một hoạt động rồi sẽ rẽ nhánh thực hiện nhiều hoạt động tiếp theo.
-6) Join: Thể hiện trường hợp phải thực hiện hai hay nhiều hành động trước rồi mới thực hiện hành động tiếp theo.
+4) Activity (Action): Mô tả một hoạt động trong hệ thống.
+5) Branch: Thể hiện rẽ nhánh trong mệnh đề điều kiện.
+6) Fork: Thể hiện cho trường hợp thực hiện xong một hoạt động rồi sẽ rẽ nhánh thực hiện nhiều hoạt động tiếp theo.
+7) Join: Thể hiện trường hợp phải thực hiện hai hay nhiều hành động trước rồi mới thực hiện hành động tiếp theo.
+8) Decision Node: Thể hiện điều kiện rẽ nhánh.
+9) Merge Node: Thể hiện gộp các dòng điều khiển cho ra một dòng.
 
 Bước 1: Xác định các nghiệp vụ cần mô tả.
 Bước 2: Xác định trạng thái đầu tiên và trạng thái kết thúc.
