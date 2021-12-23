@@ -8,7 +8,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="1afCBBbb-aTMgQgjhj3t" name="Basic Class">
-        <mxGraphModel dx="405" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="0" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="MgIQzOT3GQJcZBjXE5RO-0"/>
                 <mxCell id="MgIQzOT3GQJcZBjXE5RO-1" parent="MgIQzOT3GQJcZBjXE5RO-0"/>
@@ -2790,7 +2790,7 @@
                     <mxGeometry width="18" height="28" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
-                    <mxGeometry x="452" y="848" width="28" height="18" as="geometry"/>
+                    <mxGeometry x="452" y="861" width="28" height="18" as="geometry"/>
                 </mxCell>
                 <mxCell id="eexD8b59RvsSWEOZBm56-2" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZGz6qvaDioqa39ONcW2-1" source="Bfy0t6FlsVSRHwe1O9fa-8" target="Bfy0t6FlsVSRHwe1O9fa-16" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -2861,18 +2861,18 @@
                 <mxCell id="eexD8b59RvsSWEOZBm56-23" value="" style="triangle;fillColor=#000000;direction=west;aspect=fixed;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
                     <mxGeometry x="1218" y="196" width="6" height="12" as="geometry"/>
                 </mxCell>
-                <mxCell id="4j7BcK8VK_BCBtoD07Xz-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Quản lý&lt;/span&gt;" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;" parent="KZGz6qvaDioqa39ONcW2-1" edge="1">
+                <mxCell id="4j7BcK8VK_BCBtoD07Xz-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Quản lý&lt;/span&gt;" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="KZGz6qvaDioqa39ONcW2-1" edge="1" source="Bfy0t6FlsVSRHwe1O9fa-36">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="452" y="866" as="sourcePoint"/>
                         <mxPoint x="1698" y="384" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="1726" y="866"/>
+                            <mxPoint x="1726" y="879"/>
                             <mxPoint x="1726" y="384"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="4j7BcK8VK_BCBtoD07Xz-3" value="" style="triangle;fillColor=#000000;direction=east;aspect=fixed;" parent="KZGz6qvaDioqa39ONcW2-1" vertex="1">
-                    <mxGeometry x="1365" y="851" width="6" height="12" as="geometry"/>
+                    <mxGeometry x="1371" y="863" width="6" height="12" as="geometry"/>
                 </mxCell>
                 <mxCell id="Vgwqb7rtEHyVGaf5gvwV-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Quản lý&lt;/span&gt;" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;entryX=0.391;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.389;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="KZGz6qvaDioqa39ONcW2-1" edge="1">
                     <mxGeometry x="0.333" y="-21" relative="1" as="geometry">
