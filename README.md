@@ -2,7 +2,10 @@
 
 Medicine16 project build a clinic management.
 
-## I. Cài đặt GitHub Desktop
+## I. DEMO
+[![Demo Medicine16 1](https://i9.ytimg.com/vi_webp/nFetSCJig7M/mqdefault.webp?v=62b6b28b&sqp=CJzn2pUG&rs=AOn4CLBlYLGdCnR92D_JADQeox1nNn38SQ)](https://youtu.be/nFetSCJig7M)
+
+## II. Cài đặt GitHub Desktop
 
 ### 1. macOS và Windows
 
@@ -12,7 +15,7 @@ Download tại: [https://desktop.github.com/](https://desktop.github.com/)
 
 Download tại: [https://github.com/shiftkey/desktop/releases/](https://github.com/shiftkey/desktop/releases/)
 
-## II. Cài đặt Visual Studio Code (Code Editor)
+## III. Cài đặt Visual Studio Code (Code Editor)
 
 Download tại: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
@@ -32,7 +35,7 @@ Download tại: [https://marketplace.visualstudio.com/items?itemName=cweijan.vsc
 
 Download tại: [https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-## III. Cài đặt và thiết lập Git
+## IV. Cài đặt và thiết lập Git
 
 Download tại: [https://git-scm.com/](https://git-scm.com/)
 
@@ -57,7 +60,7 @@ cat ~/.ssh/id_ed25519.pub
 
 Vào trang: [https://github.com/settings/keys](https://github.com/settings/keys) . Sau đó nhấn vào nút `New SSH key` rồi dán vào `Key` rồi đặt tiêu đề. Cuối cùng nhấn vào `Add SSH key`.
 
-## IV. Sử dụng Git
+## V. Sử dụng Git
 
 #### 1. Các dòng commit (cam kết) cơ bản
 
